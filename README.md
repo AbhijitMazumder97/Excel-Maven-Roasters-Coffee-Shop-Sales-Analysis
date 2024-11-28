@@ -70,7 +70,7 @@ Maven Roasters, a fictitious coffee shop chain, operates in  three locations in 
 ---
 
 ### **Astoria**
-Astoria transaction by day.png
+[Astoria transaction by day.png]
 - **Top Transaction Day**: Thursday (7,427 transactions)
 - **Top Transaction Hour**: 10–11 AM
 - **Top Product**: Brewed Chai Tea (6,293 transactions)
