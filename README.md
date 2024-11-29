@@ -6,26 +6,38 @@ Sales analysis of Maven Roasters' three NYC locations (Hell’s Kitchen, Astoria
 
 
 
-# Maven Roasters Sales Analysis
+## Maven Roasters Sales Analysis
 
-## Overview
+### Overview
 Maven Roasters, a fictitious coffee shop chain, operates in  three locations in New York: Hell’s Kitchen, Astoria, and Lower Manhattan. This project analyzes transactional data from January to June 2023 to uncover sales trends, identify peak times, and understand customer preferences.
 #### Goals:
 - Transform the sales data into a dynamic dashboard. 
 - Identify trends and patterns in sales data.
 - Determine peak transaction periods and product preferences.
 - Develop actionable strategies to improve sales and customer satisfaction.
+#### Outcome:
+The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
+
+[PIC dash]
 
 
+### Key Highlights
 
-## Key Highlights
-- **Revenue Growth**: Consistent upward trend across locations, with significant growth in March and May.
-- **Peak Hours**: Mornings (7–11 AM) dominate transactions across all locations.
-- **Top Products**: Barista Espresso leads revenue generation, while Brewed Chai Tea is most popular in Astoria.
-
+- **Revenue Growth**:
+    - Consistent upward trend across all locations, with significant growth in ***March*** and ***May***.
+    - A decline in sales was noticed in ***February***.
+  
+- **Peak Hours and Days**: Transactions peak during morning hours (especialy between 8–11 AM) across all locations, with notable differences in the busiest days:
+    - **Hell’s Kitchen**: ***Friday*** sees the highest customer activity.
+    - **Astoria**: ***Thursday*** is the most popular day.
+    - **Lower Manhattan**: ***Monday*** leads in transactions.
+      
+- **Top Products**:
+    - **Barista Espresso**: The top revenue generator across all locations, particularly popular in ***Hell’s Kitchen*** (revenue collected: ***$ 32,420.20***) and ***Lower Manhattan*** (revenue collected: ***$ 31,051.00***).
+    - **Brewed Chai Tea**: Shows significant popularity in ***Astoria***, reflecting customer preference for moderate-caffeine options in that area.
 ---
 
-## Table of Contents
+### Table of Contents
 1. [Dataset Description](#dataset-description)
 2. [Analysis Questions](#analysis-questions)
 3. [Findings by Location](#findings-by-location)
@@ -37,7 +49,7 @@ Maven Roasters, a fictitious coffee shop chain, operates in  three locations in 
 
 ---
 
-## Dataset Description
+## dataset-description
 - **Timeframe**: January 2023 – June 2023
 - **Volume**: 149,456 rows, 11 fields
 - **Calculated Columns**:
@@ -46,7 +58,7 @@ Maven Roasters, a fictitious coffee shop chain, operates in  three locations in 
 
 ---
 
-## Analysis Questions
+## #Analysis-Questions
 1. How have sales trended over time?
 2. Which days and hours drive the most transactions?
 3. Which products are most/least popular? Which drive the most revenue?
@@ -60,12 +72,16 @@ Maven Roasters, a fictitious coffee shop chain, operates in  three locations in 
 - **Top Transaction Day**: Friday (7,489 transactions)
 - **Top Transaction Hour**: 8–11 AM
 - **Top Product**: Barista Espresso ($32,420 revenue)
-- **Insights**:
+###### **Daily and Hourly Insights**:
+  []
   - High traffic on Fridays reflects increased customer activity aligning with end-of-week routines.
   - Sunday outperforms weekdays such as Monday, Wednesday, and Thursday, highlighting a strong customer preference for weekend visits.
   - Peak hours occur between 8 AM and 11 AM, driven by commuter traffic and early coffee seekers.
   - Sales decline sharply after 11 AM but remain steady through 8 PM.
   - Sales drop significantly after 8 PM, likely due to reduced interest in hot beverages and customers exploring other dining options.
+ 
+###### **Product Performance Insights**:
+  []
 
 ---
 
@@ -138,4 +154,6 @@ Maven Roasters, a fictitious coffee shop chain, operates in  three locations in 
 
 ## Conclusion
 This analysis provides valuable insights into customer behavior and operational performance at Maven Roasters. By implementing the recommendations, the company can increase revenue, enhance customer satisfaction, and improve operational efficiency.
+
+
 
