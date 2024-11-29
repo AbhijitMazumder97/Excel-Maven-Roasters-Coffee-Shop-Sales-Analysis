@@ -41,11 +41,14 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 1. [Dataset Description](#dataset-description)
 2. [Analysis Questions](#analysis-questions)
 3. [Findings by Location](#findings-by-location)
-4. [Comparative Summary](#comparative-summary)
-5. [Recommendations](#recommendations)
-6. [Technical Skills Used](#technical-skills-used)
-7. [Dashboard Preview](#dashboard-preview)
-8. [Conclusion](#conclusion)
+   - [Hell's Kitchen](#hell's-kitchen)
+   - [Astoria](#astoria)
+   - [Lower Manhattan](#lower-manhattan)
+7. [Comparative Summary](#comparative-summary)
+8. [Recommendations](#recommendations)
+9. [Technical Skills Used](#technical-skills-used)
+10. [Dashboard Preview](#dashboard-preview)
+11. [Conclusion](#conclusion)
 
 ---
 
