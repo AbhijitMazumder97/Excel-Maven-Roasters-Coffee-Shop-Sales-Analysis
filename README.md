@@ -44,11 +44,11 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
    - [Hell's Kitchen](#hell's-kitchen)
    - [Astoria](#astoria)
    - [Lower Manhattan](#lower-manhattan)
-7. [Comparative Summary](#comparative-summary)
-8. [Recommendations](#recommendations)
-9. [Technical Skills Used](#technical-skills-used)
-10. [Dashboard Preview](#dashboard-preview)
-11. [Conclusion](#conclusion)
+4. [Comparative Summary](#comparative-summary)
+5. [Recommendations](#recommendations)
+6. [Technical Skills Used](#technical-skills-used)
+7. [Dashboard Preview](#dashboard-preview)
+8. [Conclusion](#conclusion)
 
 ---
 
@@ -57,7 +57,15 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 - **Volume**: 149,456 rows, 11 fields
 - **Calculated Columns**:
   - `Revenue`: Transaction quantity × Unit price.
-  - `Month`, `Day`, `Hour`: Extracted using Excel formulas (`SWITCH`,`MONTH` ,`HOUR`, `WEEKDAY`).
+  - `Month`: Derived using **SWITCH** and **MONTH** functions. 
+  - `Day`: Derived using **SWITCH** and **WEEKDAY** functions.
+  - `Hour`:  Created using the **HOUR** function.
+- **Data Quality**:
+  - No missing values or inconsistencies.
+  - Clean and ready for analysis.
+
+
+
 
 ---
 
@@ -75,16 +83,21 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 - **Top Transaction Day**: Friday (7,489 transactions)
 - **Top Transaction Hour**: 8–11 AM
 - **Top Product**: Barista Espresso ($32,420 revenue)
-###### **Daily and Hourly Insights**:
-  []
-  - High traffic on Fridays reflects increased customer activity aligning with end-of-week routines.
-  - Sunday outperforms weekdays such as Monday, Wednesday, and Thursday, highlighting a strong customer preference for weekend visits.
-  - Peak hours occur between 8 AM and 11 AM, driven by commuter traffic and early coffee seekers.
-  - Sales decline sharply after 11 AM but remain steady through 8 PM.
-  - Sales drop significantly after 8 PM, likely due to reduced interest in hot beverages and customers exploring other dining options.
- 
-###### **Product Performance Insights**:
-  []
+- **Daily and Hourly Insights**:
+
+    - `High Traffic on Fridays`: Reflects increased customer activity aligning with end-of-week routines.
+    - `Weekend Preference`: Sunday outperforms weekdays like Monday, Wednesday, and Thursday, highlighting a strong customer preference for weekend visits.
+    - `Peak Hours`: Occur between 8 AM and 11 AM, driven by commuter traffic and early coffee seekers.
+    - `Post-11 AM Sales Decline`: Sales decline sharply after 11 AM but remain steady through 8 PM.
+    - `Evening Sales Drop`: Sales drop significantly after 8 PM, likely due to reduced interest in hot beverages and customers exploring other dining options.
+- **Product Performance Insights**:
+  
+    - `High-Caffeine Preference`: Customers tend to prefer high-caffeine-content espresso-based beverages like Barista Espresso.
+    - `Moderate-Caffeine Preference`: There is a significant preference for moderate-caffeine beverages like Brewed Chai Tea.
+    - `Bakery Pairing`: The popularity of bakery items, especially scones, shows that customers like to pair their beverages with baked goods.
+    - `Non-Caffeinated Options`: Hot chocolate’s popularity indicates that customers also prefer non-caffeinated options.
+    - `Syrup Flavours`: More customers tend to prefer regular syrup flavours over sugar-free ones. 
+    - `Take-Home Products`: Customers show less interest in take-home products like coffee beans, loose tea, packaged chocolate, and branded items.
 
 ---
 
@@ -93,9 +106,22 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 - **Top Transaction Day**: Thursday (7,427 transactions)
 - **Top Transaction Hour**: 10–11 AM
 - **Top Product**: Brewed Chai Tea (6,293 transactions)
-- **Insights**:
-  - Strong midweek demand for caffeine.
-  - Evening activity suggests professionals returning from work.
+- **Daily and Hourly Insights**:
+  
+  - Midweek Spike: High Thursday transactions reflect a midweek spike in caffeine demand.
+  - Lower Saturday and Tuesday Visits: Fewer customers visit the coffee shop on Saturdays and Tuesdays compared to other days.
+  - Weekend Trends: Weekend caffeine demand is lower as customers explore other food options and activities, though more customers visit on Sundays compared to Saturdays.
+  - Morning Dominance: Sales dominate in the mornings (7 AM–11 AM), indicating high commuter activity.
+  - Steady Evening Flow: Steady customer flow all day with consistent evening activity, likely due to residents and professionals returning from work.
+    
+- **Product Performance Insights**:
+  
+  - `Moderate-Caffeine Preference`: Customers favor moderate-caffeine beverages like Brewed Chai Tea over high-caffeine options like Barista Espresso.
+  - `Non-Caffeinated Options`: The popularity of hot chocolate shows that customers also enjoy non-caffeinated options.
+  - `Bakery Popularity``: People prefer pairing scones with their beverages, making them more popular than pastries and biscotti, similar to the trend in Hell's Kitchen.
+  - `Syrup Flavors`: More customers prefer regular syrup flavors over sugar-free ones.
+  - `Take-Home Products`: Customers show less interest in take-home products such as coffee beans, loose tea, packaged chocolate, and branded items.
+
 
 ---
 
@@ -103,9 +129,21 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 - **Top Transaction Day**: Monday (7,136 transactions)
 - **Top Transaction Hour**: 7–10 AM
 - **Top Product**: Barista Espresso ($31,051 revenue)
-- **Insights**:
-  - High Monday sales reflect caffeine needs at the start of the week.
-  - Minimal activity post-7 PM due to reduced foot traffic.
+- **Daily and Hourly Insights**:
+
+  - `Monday Visits`: Most customers visit on Mondays, likely for a caffeine boost or a quick grab on their way to work.
+  - `Midweek Spikes`: Midweek spikes in transactions, similar to the trend in Astoria, are probably due to client meetings.
+  - `Weekend Decrease`: Weekend transactions decrease due to lower demand and less foot traffic.
+  - `Morning Dominance`: Most customers visit before 11 AM, with sales dropping by 60.52% afterward, likely due to low caffeine demand and limited food options.
+  - `Evening Decline`: Decreasing sales after 4 PM and very few sales after 7 PM show minimal foot traffic and low interest in hot beverages during evening hours.
+    
+- **Product Performance Insights**:
+
+  - `Caffeine Preferences`: Customers prefer high-to-moderate caffeine drinks like Barista Espresso, Gourmet Brewed Coffee, and Brewed Chai Tea. Black and herbal teas are also popular.
+  - `Bakery Pairing`: The popularity of bakery items, especially scones, indicates that customers enjoy pairing their beverages with baked goods(similar trend to Astoria and Hell's Kitchen).
+  - `Hot Chocolate Appeal`: Hot chocolate, though less popular (comapred to the trend in Astoria and Hell's Kitchen), generated ***$ 22.4k***, appealing to tourists, children, and families.
+  - `Syrup Flavors`: Regular syrup flavors are preferred over sugar-free ones.
+  - `Take-Home Products`: Customers show less interest in take-home products like coffee beans, loose tea, packaged chocolate, and branded items.
 
 ---
 
