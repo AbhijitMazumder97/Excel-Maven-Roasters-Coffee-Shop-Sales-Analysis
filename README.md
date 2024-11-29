@@ -118,7 +118,7 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
   
   - `Moderate-Caffeine Preference`: Customers favor moderate-caffeine beverages like Brewed Chai Tea over high-caffeine options like Barista Espresso.
   - `Non-Caffeinated Options`: The popularity of hot chocolate shows that customers also enjoy non-caffeinated options.
-  - `Bakery Popularity``: People prefer pairing scones with their beverages, making them more popular than pastries and biscotti, similar to the trend in Hell's Kitchen.
+  - `Bakery Popularity`: People prefer pairing scones with their beverages, making them more popular than pastries and biscotti, similar to the trend in Hell's Kitchen.
   - `Syrup Flavors`: More customers prefer regular syrup flavors over sugar-free ones.
   - `Take-Home Products`: Customers show less interest in take-home products such as coffee beans, loose tea, packaged chocolate, and branded items.
 
