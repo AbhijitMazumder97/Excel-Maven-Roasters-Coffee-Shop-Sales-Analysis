@@ -49,7 +49,7 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 
 ---
 
-## dataset-description
+## Dataset Description
 - **Timeframe**: January 2023 – June 2023
 - **Volume**: 149,456 rows, 11 fields
 - **Calculated Columns**:
@@ -58,7 +58,7 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 
 ---
 
-## #Analysis-Questions
+## Analysis Questions
 1. How have sales trended over time?
 2. Which days and hours drive the most transactions?
 3. Which products are most/least popular? Which drive the most revenue?
