@@ -108,11 +108,11 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 - **Top Product**: Brewed Chai Tea (6,293 transactions)
 - **Daily and Hourly Insights**:
   
-  - Midweek Spike: High Thursday transactions reflect a midweek spike in caffeine demand.
-  - Lower Saturday and Tuesday Visits: Fewer customers visit the coffee shop on Saturdays and Tuesdays compared to other days.
-  - Weekend Trends: Weekend caffeine demand is lower as customers explore other food options and activities, though more customers visit on Sundays compared to Saturdays.
-  - Morning Dominance: Sales dominate in the mornings (7 AM–11 AM), indicating high commuter activity.
-  - Steady Evening Flow: Steady customer flow all day with consistent evening activity, likely due to residents and professionals returning from work.
+  - `Midweek Spike`: High Thursday transactions reflect a midweek spike in caffeine demand.
+  - `Lower Saturday and Tuesday Visits`: Less customers showed up on Tuesdays and Saturdays indicating less caffeine demand on these day. Customers are exploring other options like **Taco Tuesdays** or **Saturday-special Brunch** menus.
+  - `Weekend Trends`: Weekend caffeine demand is lower as customers explore other food options and activities, though more customers visit on Sundays compared to Saturdays.
+  - `Morning Dominance`: Sales dominate in the mornings (7 AM–11 AM), indicating high commuter activity.
+  - `Steady Evening Flow`: Steady customer flow all day with consistent evening activity, likely due to residents and professionals returning from work.
     
 - **Product Performance Insights**:
   
@@ -149,12 +149,38 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 
 ## Comparative Summary
 
-| Metric                  | Hell’s Kitchen       | Astoria            | Lower Manhattan    |
-|-------------------------|----------------------|--------------------|--------------------|
-| **Top Transaction Day** | Friday               | Thursday           | Monday             |
-| **Top Hour**            | 8 AM - 11 AM        | 10 AM - 11 AM      | 7 AM - 10 AM       |
-| **Top Product**         | Barista Espresso    | Brewed Chai Tea    | Barista Espresso   |
-| **Evening Activity**    | Consistent till 8 PM| Consistent till 8 PM| Declines post 5 PM |
+| **Metric**                  | **Hell’s Kitchen**                              | **Astoria**                                   | **Lower Manhattan**                          |
+|-----------------------------|-----------------------------------------------|---------------------------------------------|---------------------------------------------|
+| **Least Transaction Day**   | Saturday                                       | Saturday                                    | Sunday                                      |
+| **Top Transaction Day**     | Friday                                         | Thursday                                    | Monday                                      |
+| **Peak Hours**              | 8 AM - 11 AM                                   | 7 AM - 11 AM                                | 7 AM - 11 AM                                |
+| **Evening Activity**        | Consistent evening activity till 8 PM.         | Consistent activity till 8 PM.              | Sales decreasing post-5 PM. Very few sales post-7 PM. |
+| **Midweek Activity**        | Drop in sales on Wednesdays; peak on Friday.   | Midweek spike in sales on Thursdays.        | Midweek spike in sales on Thursdays.        |
+| **Top Product**             | Barista Espresso                               | Brewed Chai Tea                             | Barista Espresso                            |
+| **Least Popular Product**   | Branded Items (119 transactions)               | Packaged Chocolate (110 transactions)       | Packaged Chocolate (180 transactions)       |
+| **Drinking Chocolate Popularity** | 4th rank (3763 transactions)                | 4th rank (4300 transactions)                | 7th rank (3405 transactions)                |
+| **February Drop**           | 7.55%                                         | 8.09%                                       | 4.61%                                       |
+| **Spring Performance (March-May)** | Total Revenue: $126,013.64<br>Max revenue increase: May (30.51%) | Total Revenue: $124,741.80<br>Max revenue increase: May (32.81%) | Total Revenue: $123,748.08<br>Max revenue increase: May (32.02%) |
+| **Avg. Transactions Before 11 AM** | 5152.8                                      | 4880.25                                     | 5340                                       |
+| **Avg. Transactions After 11 AM**  | 2497.10                                     | 3453.11                                     | 2108.20                                    |
+| **Avg. Decrease Post 11 AM** | 51.54%                                       | 29.24%                                     | 60.52%                                     |
+
+
+- #### Key Insights
+    - **Morning Activity**:
+        - All locations see the majority of transactions before 11 AM, with the highest activity in Lower Manhattan.
+        - Significant drops in sales occur after 11 AM, with Lower Manhattan experiencing the steepest decrease (60.52%).
+  
+    - **Weekend vs. Weekday Performance**:
+        - Hell’s Kitchen and Astoria experience the lowest transactions on Saturdays, while Sunday is least active in Lower Manhattan.
+        - Peak transaction days vary: Friday (Hell’s Kitchen), Thursday (Astoria), and Monday (Lower Manhattan).
+
+    - **Product Popularity**:
+        - Barista Espresso dominates in Hell’s Kitchen and Lower Manhattan, while Brewed Chai Tea is a favorite in Astoria.
+        - Packaged products (e.g., branded items and chocolates) are the least popular across all locations.
+
+    - **Spring Revenue Growth**: All locations show strong performance in spring, with May being the highest revenue month, particularly in Astoria (32.81% growth).
+
 
 ---
 
@@ -190,13 +216,21 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
     - **Offer affordable daily-use items** like tote bags, reusable coffee sleeves, stickers, and notepads.
     - **Introduce festive/limited edition local-themed mugs and t-shirts** to build brand loyalty.
 
-- `Website or App`: **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
+- `Gift-Chocolates`:
+    - Market chocolates as **gift items** by improving packaging (e.g., gift boxes, ribbons).
+    - Promote **seasonal offerings** (e.g., holiday-themed chocolates).
+    - Conduct **taste events and surveys** to understand customer preferences.
+
+- `App and social media`:
+    - **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
+    - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
+    -  Online campaign ads on social media to promote less popular products.
 
 - `Closing Time`:
     - **Lower Manhattan**:
-        - Close early due to minimal foot traffic after 7pm.
-        - Focus on quick service, lunch, and delivery options for working professionals.
-        - Conduct surveys to understand customer needs before extending hours past 7pm.
+        - **Close early** due to minimal foot traffic **after 7pm**.
+        - Focus on **quick service, lunch, and delivery options** for working professionals.
+        - Conduct **surveys** to understand customer needs before extending hours past 7pm.
     - **Maintain the same business hours** in Astoria and Hell’s Kitchen.
 
 
@@ -205,8 +239,12 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 
 ## Technical Skills Used
 - **Tools**: Microsoft Excel
-- **Techniques**: Pivot Tables, calculated columns (`SWITCH`,`MONTH` ,`WEEKDAY`, `HOUR` functions)
-- **Visualization**: Line charts, bar graphs, and dashboards for insights presentation.
+- **Techniques**:
+    - Pivot Tables: to feature the top 15 product types
+    - calculated columns : Derived calculated columns like `Revenue`, `Day`,`Hour`, and `Month` using functions  `SWITCH`,`MONTH` ,`WEEKDAY` and `HOUR`.
+    -  conditional formatting: Used the conditional formatting feature to highlight the `Revenue` column in the top 15 product types pivot table, ensuring darker shades highlight high revenue and lighter shades highlight lower revenue figures.
+    
+- **Visualization**: Line charts, bar graphs, pivot tables and dashboard for insights presentation.
 
 ---
 
