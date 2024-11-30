@@ -158,26 +158,48 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 
 ---
 
-## Recommendations
+### **Recommendations**
 
-### **Location-Specific Strategies**
-1. **Hell’s Kitchen**:
-   - Offer Friday morning promotions targeting commuters.
-   - Introduce loyalty programs for morning customers.
+- `Address February Decline`:
+    - Launch **Valentine’s-themed** beverages and bakery items.
+    - Introduce **limited-edition** branded chocolates and **Valentine's-themed** merchandise.
 
-2. **Astoria**:
-   - Promote Brewed Chai Tea and family-friendly combos on Sundays.
-   - Leverage evening foot traffic with meal-and-drink bundles.
+- `Seasonal Menu`:
+    - Promote **limited edition iced beverages and summer special snacks** during the summer.
+    - Roll out festive drinks like ***Pumpkin Spice Latte*** during the fall and ***Peppermint Mocha*** during the holidays.
 
-3. **Lower Manhattan**:
-   - Focus on Monday deals for repeat customers.
-   - Close earlier post-7 PM and prioritize delivery options for professionals.
+- `Weekend Offers`:
+    - Introduce **“happy family combo”** on weekends to attract tourists and families.
+    - Offer **loyalty points** for **word-of-mouth referrals** to friends.
 
-### **General Strategies**
-- Launch Valentine-themed beverages in February to boost sales.
-- Expand the menu with grab-and-go lunch options (e.g., sandwiches, wraps, salads).
-- Partner with delivery services like Uber Eats to capture lunch and evening customers.
-- Develop a loyalty program to reward frequent visitors and referrals.
+- `Customer Surveys`: Conduct surveys regularly to understand **customer preferences** and modify the menu accordingly.
+
+- `Expand Menu`:
+    - **Introduce grab-and-go customizable “all-day sandwiches” and “lunch wraps”** to boost sales, especially post-11am.
+    - **Add healthy options** like fresh salads and soup to your lunch and dinner menu.
+    - **Add non-caffeinated beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
+
+- `Leverage Delivery Services`:
+    - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
+
+- `Host Events to Boost Coffee Beans and Tea Leaves`:
+    - **Host coffee-tea workshops** to boost brand engagement and sales.
+    - **Offer loyalty rewards** for workshop referrals.
+
+- `Expand Merchandise`:
+    - **Offer affordable daily-use items** like tote bags, reusable coffee sleeves, stickers, and notepads.
+    - **Introduce festive/limited edition local-themed mugs and t-shirts** to build brand loyalty.
+
+- `Website or App`: **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
+
+- `Closing Time`:
+    - **Lower Manhattan**:
+        - Close early due to minimal foot traffic after 7pm.
+        - Focus on quick service, lunch, and delivery options for working professionals.
+        - Conduct surveys to understand customer needs before extending hours past 7pm.
+    - **Maintain the same business hours** in Astoria and Hell’s Kitchen.
+
+
 
 ---
 
