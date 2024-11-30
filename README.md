@@ -158,9 +158,9 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 | **Drinking Chocolate Popularity** | 4th rank (3763 transactions)                | 4th rank (4300 transactions)                | 7th rank (3405 transactions)                |
 | **February Drop**           | 7.55%                                         | 8.09%                                       | 4.61%                                       |
 | **Spring Performance (March-May)** | Total Revenue: $126,013.64<br>Max revenue increase: May (30.51%) | Total Revenue: $124,741.80<br>Max revenue increase: May (32.81%) | Total Revenue: $123,748.08<br>Max revenue increase: May (32.02%) |
-| **Avg. Transactions Before 11 AM** | 5152.8                                      | 4880.25                                     | 5340                                       |
-| **Avg. Transactions After 11 AM**  | 2497.10                                     | 3453.11                                     | 2108.20                                    |
-| **Avg. Decrease Post 11 AM** | 51.54%                                       | 29.24%                                     | 60.52%                                     |
+| **Average Transactions Before 11 AM** | 5152.8                                      | 4880.25                                     | 5340                                       |
+| **Average Transactions After 11 AM**  | 2497.10                                     | 3453.11                                     | 2108.20                                    |
+| **Average Decrease Post 11 AM** | 51.54%                                       | 29.24%                                     | 60.52%                                     |
 
 
 - #### Key Insights
@@ -205,7 +205,7 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 - `Leverage Delivery Services`:
     - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
 
-- `Host Events to Boost Coffee Beans and Tea Leaves`:
+- `Host Events and Workshops`:
     - **Host coffee-tea workshops** to boost brand engagement and sales.
     - **Offer loyalty rewards** for workshop referrals.
 
@@ -230,22 +230,17 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
         - Conduct **surveys** to understand customer needs before extending hours past 7pm.
     - **Maintain the same business hours** in Astoria and Hell’s Kitchen.
 
-
-
 ---
 
 ## Technical Skills Used
 - **Tools**: Microsoft Excel
-- **Techniques**:
-    - Pivot Tables: Used to feature the top 15 product types
-    - calculated columns : Derived calculated columns like `Revenue`, `Day`,`Hour`, and `Month` using functions  `SWITCH`,`MONTH` ,`WEEKDAY` and `HOUR`.
-    -  conditional formatting: Used the conditional formatting feature to highlight the `Revenue` column in the top 15 product types pivot table, ensuring darker shades highlight high revenue and lighter shades highlight lower revenue figures.
-
-    
-- **Visualization**:
-    - `Line charts`: Used to feature the revenue growth trend
-    - `Bar graphs`: Used to feature daily, hourly sales and popular product categories.
-    - `Slicers`: Used a slicer with buttons for Hell's Kitchen, Lower Manhattan and Astoria to filter and analyze data specific to these locations.
+- **Techniques and Visualization**:
+    - `Calculated columns` : Derived calculated columns like **Revenue, Day, Hour, and Month using functions SWITCH, MONTH, WEEKDAY and HOUR**.
+    -  `Conditional formatting`: Used the conditional formatting feature to highlight the **Revenue** column in the top 15 product types pivot table, ensuring **darker shades highlight high revenue** and **lighter shades highlight lower revenue figures**.
+    - `Line charts`: Used to feature the **revenue growth trend**.
+    - `Bar graphs`: Used to feature **daily, hourly sales and popular product categories**.
+    - `Slicers`: Used a slicer with buttons for Hell's Kitchen, Lower Manhattan and Astoria to **filter and analyze data** specific to these locations.
+    - `Pivot Tables`: Used to feature the **top 15 product types**.
 ---
 
 ## Dashboard Preview
