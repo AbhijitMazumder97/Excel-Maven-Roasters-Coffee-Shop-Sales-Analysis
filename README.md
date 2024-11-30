@@ -3,9 +3,6 @@
 Sales analysis of Maven Roasters' three NYC locations (Hell’s Kitchen, Astoria, and Lower Manhattan) using transactional data from January to June 2023. Includes a dynamic Excel dashboard and actionable insights to optimize operations, boost sales, and improve customer engagement.
 
 
-
-
-
 ## Maven Roasters Sales Analysis
 
 ### Overview
@@ -240,12 +237,15 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 ## Technical Skills Used
 - **Tools**: Microsoft Excel
 - **Techniques**:
-    - Pivot Tables: to feature the top 15 product types
+    - Pivot Tables: Used to feature the top 15 product types
     - calculated columns : Derived calculated columns like `Revenue`, `Day`,`Hour`, and `Month` using functions  `SWITCH`,`MONTH` ,`WEEKDAY` and `HOUR`.
     -  conditional formatting: Used the conditional formatting feature to highlight the `Revenue` column in the top 15 product types pivot table, ensuring darker shades highlight high revenue and lighter shades highlight lower revenue figures.
-    
-- **Visualization**: Line charts, bar graphs, pivot tables and dashboard for insights presentation.
 
+    
+- **Visualization**:
+    - `Line charts`: Used to feature the revenue growth trend
+    - `Bar graphs`: Used to feature daily, hourly sales and popular product categories.
+    - `Slicers`: Used a slicer with buttons for Hell's Kitchen, Lower Manhattan and Astoria to filter and analyze data specific to these locations.
 ---
 
 ## Dashboard Preview
