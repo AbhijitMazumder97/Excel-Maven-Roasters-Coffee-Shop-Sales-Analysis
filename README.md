@@ -56,10 +56,6 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 - **Data Quality**:
   - No missing values or inconsistencies.
   - Clean and ready for analysis.
-
-
-
-
 ---
 
 ## Analysis Questions
@@ -73,7 +69,17 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 ${\color{blue}\text{(common to all three locations)}}$
 
 
-- **February** saw a decline due to post-holiday fatigue, fewer weekdays, and limited food options.
+![arevenue](https://github.com/user-attachments/assets/e111521d-e424-4cd3-b5d5-31ac5c9d89a7)
+${\color{brown}\text{Fig.: Astoria Revenue Trend}}$
+
+![hkrevenue](https://github.com/user-attachments/assets/687fe19f-058b-4f9c-a200-732596ca0162)
+${\color{brown}\text{Fig.: Hell's Kitchen Revenue Trend}}$
+
+![lmrevenue](https://github.com/user-attachments/assets/f10b687e-c22e-47f9-8a47-8f83ce10dec5)
+${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
+
+
+- **February** saw a decline either due to post-holiday fatigue or fewer weekdays.
 - Strong revenue growth from **March to May (maximum growth in May)** reflects high spring caffeine demand and increased customer traffic.
 - Minimal growth in **June** suggests stabilization, highlighting the need for targeted summer promotions.
 
@@ -84,15 +90,28 @@ ${\color{blue}\text{(common to all three locations)}}$
 - **Top Transaction Day**: Friday (7,489 transactions)
 - **Top Transaction Hour**: 8–11 AM
 - **Top Product**: Barista Espresso ($32,420 revenue)
+
 - **Daily and Hourly Insights**:
+![hkhourlydailytrans](https://github.com/user-attachments/assets/6ab3e4d7-6b3b-42c1-9671-cfa579de1702)
+${\color{brown}\text{Fig.: Hell's Kitchen daily and hourly transactions}}$
 
     - `High Traffic on Fridays`: Reflects increased customer activity aligning with end-of-week routines.
     - `Weekend Preference`: Sunday outperforms weekdays like Monday, Wednesday, and Thursday, highlighting a strong customer preference for weekend visits.
     - `Peak Hours`: Occur between 8 AM and 11 AM, driven by commuter traffic and early coffee seekers.
     - `Post-11 AM Sales Decline`: Sales decline sharply after 11 AM but remain steady through 8 PM.
     - `Evening Sales Drop`: Sales drop significantly after 8 PM, likely due to reduced interest in hot beverages and customers exploring other dining options.
+
+
+
+    ${\color{red}\text{Note: Each column in "Transactions by hour" visual represents an entire hour duration. Eg. 7 means between 7AM and 8AM. Similarly, 19 means between 7PM and 8PM. }}$
+${\color{red}\text{Total number of transactions that occurred between 7AM and 8AM from January 2023 to June 2023 was 3455 in Hell's Kitchen.}}$
+
+
 - **Product Performance Insights**:
-  
+  ![hkpopular](https://github.com/user-attachments/assets/6af623fe-5bec-427b-a476-8d950e01669f)
+  ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
+
+
     - `High-Caffeine Preference`: Customers tend to prefer high-caffeine-content espresso-based beverages like Barista Espresso.
     - `Moderate-Caffeine Preference`: There is a significant preference for moderate-caffeine beverages like Brewed Chai Tea.
     - `Bakery Pairing`: The popularity of bakery items, especially scones, shows that customers like to pair their beverages with baked goods.
@@ -103,12 +122,18 @@ ${\color{blue}\text{(common to all three locations)}}$
 ---
 
 ### **Astoria**
-[Astoria transaction by day.png]
+
+
+
 - **Top Transaction Day**: Thursday (7,427 transactions)
 - **Top Transaction Hour**: 10–11 AM
 - **Top Product**: Brewed Chai Tea (6,293 transactions)
-- **Daily and Hourly Insights**:
+
   
+- **Daily and Hourly Insights**:
+ ![ashourlydailytrans](https://github.com/user-attachments/assets/83d9525d-59e4-444f-a6f2-c2cf1ea74d73)
+${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
+
   - `Midweek Spike`: High Thursday transactions reflect a midweek spike in caffeine demand.
   - `Lower Saturday and Tuesday Visits`: Less customers showed up on Tuesdays and Saturdays indicating less caffeine demand on these day. Customers are exploring other options like **Taco Tuesdays** or **Saturday-special Brunch** menus.
   - `Weekend Trends`: Weekend caffeine demand is lower as customers explore other food options and activities, though more customers visit on Sundays compared to Saturdays.
@@ -116,7 +141,9 @@ ${\color{blue}\text{(common to all three locations)}}$
   - `Steady Evening Flow`: Steady customer flow all day with consistent evening activity, likely due to residents and professionals returning from work.
     
 - **Product Performance Insights**:
-  
+  ![aspopular](https://github.com/user-attachments/assets/fb836a20-20cb-4aa0-af25-44b1289b08ed)
+${\color{brown}\text{Fig.: Astoria product performance and revenue}}$
+
   - `Moderate-Caffeine Preference`: Customers favor moderate-caffeine beverages like Brewed Chai Tea over high-caffeine options like Barista Espresso.
   - `Non-Caffeinated Options`: The popularity of hot chocolate shows that customers also enjoy non-caffeinated options.
   - `Bakery Popularity`: People prefer pairing scones with their beverages, making them more popular than pastries and biscotti, similar to the trend in Hell's Kitchen.
@@ -127,10 +154,14 @@ ${\color{blue}\text{(common to all three locations)}}$
 ---
 
 ### **Lower Manhattan**
+
 - **Top Transaction Day**: Monday (7,136 transactions)
 - **Top Transaction Hour**: 7–10 AM
 - **Top Product**: Barista Espresso ($31,051 revenue)
+
 - **Daily and Hourly Insights**:
+![lmdailyhourlytrans](https://github.com/user-attachments/assets/27c0e5fe-bd98-4d4d-b593-1ef8dedbf383)
+${\color{brown}\text{Fig.: Lower Manhattan daily and hourly transactions}}$
 
   - `Monday Visits`: Most customers visit on Mondays, likely for a caffeine boost or a quick grab on their way to work.
   - `Midweek Spikes`: Midweek spikes in transactions, similar to the trend in Astoria, are probably due to client meetings.
@@ -139,10 +170,12 @@ ${\color{blue}\text{(common to all three locations)}}$
   - `Evening Decline`: Decreasing sales after 4 PM and very few sales after 7 PM show minimal foot traffic and low interest in hot beverages during evening hours.
     
 - **Product Performance Insights**:
+![lmpopuar](https://github.com/user-attachments/assets/a563eedd-1594-4e18-a5a8-9c0a6455fb4f)
+${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
   - `Caffeine Preferences`: Customers prefer high-to-moderate caffeine drinks like Barista Espresso, Gourmet Brewed Coffee, and Brewed Chai Tea. Black and herbal teas are also popular.
-  - `Bakery Pairing`: The popularity of bakery items, especially scones, indicates that customers enjoy pairing their beverages with baked goods(similar trend to Astoria and Hell's Kitchen).
-  - `Hot Chocolate Appeal`: Hot chocolate, though less popular (comapred to the trend in Astoria and Hell's Kitchen), generated ***$ 22.4k***, appealing to tourists, children, and families.
+  - `Bakery Pairing`: The popularity of bakery items, especially scones, indicates that customers enjoy pairing their beverages with baked goods(similar to the trend in Astoria and Hell's Kitchen).
+  - `Hot Chocolate Appeal`: Hot chocolate, though less popular (compared to the trend in Astoria and Hell's Kitchen), generated ***$ 22.4k***, appealing to tourists, children, and families.
   - `Syrup Flavors`: Regular syrup flavors are preferred over sugar-free ones.
   - `Take-Home Products`: Customers show less interest in take-home products like coffee beans, loose tea, packaged chocolate, and branded items.
 
@@ -165,23 +198,6 @@ ${\color{blue}\text{(common to all three locations)}}$
 | **Average Transactions Before 11 AM** | 5152.8                                      | 4880.25                                     | 5340                                       |
 | **Average Transactions After 11 AM**  | 2497.10                                     | 3453.11                                     | 2108.20                                    |
 | **Average Decrease Post 11 AM** | 51.54%                                       | 29.24%                                     | 60.52%                                     |
-
-
-- #### Key Insights
-    - **Morning Activity**:
-        - All locations see the majority of transactions before 11 AM, with the highest activity in Lower Manhattan.
-        - Significant drops in sales occur after 11 AM, with Lower Manhattan experiencing the steepest decrease (60.52%).
-  
-    - **Weekend vs. Weekday Performance**:
-        - Hell’s Kitchen and Astoria experience the lowest transactions on Saturdays, while Sunday is least active in Lower Manhattan.
-        - Peak transaction days vary: Friday (Hell’s Kitchen), Thursday (Astoria), and Monday (Lower Manhattan).
-
-    - **Product Popularity**:
-        - Barista Espresso dominates in Hell’s Kitchen and Lower Manhattan, while Brewed Chai Tea is a favorite in Astoria.
-        - Packaged products (e.g., branded items and chocolates) are the least popular across all locations.
-
-    - **Spring Revenue Growth**: All locations show strong performance in spring, with May being the highest revenue month, particularly in Astoria (32.81% growth).
-
 
 ---
 
@@ -249,7 +265,7 @@ ${\color{blue}\text{(common to all three locations)}}$
 
 ## Dashboard Preview
 ![Dashboard Screenshot](path/to/dashboard-image.png)
-
+<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/462cecb3b51e1d91/IQTNRGwwJiv3R4gnhoX2J8DxARntEnuOkhYZdwvKcmdkjhI?em=2&ActiveCell='Coffee%20Shop%20Sales%20Dasboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 ---
 
 ## Conclusion
