@@ -11,7 +11,9 @@ Maven Roasters, a fictitious coffee shop chain, operates in  three locations in 
 The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
 
 ![as2](https://github.com/user-attachments/assets/2be99bbf-173e-4a0c-be11-3c41fca46eda)
+
 ![hks](https://github.com/user-attachments/assets/72edfc43-f3ce-406e-a162-921f3f4a297b)
+
 ![lms](https://github.com/user-attachments/assets/322ae075-1293-4d0a-b31c-b020fce3894f)
 
 
