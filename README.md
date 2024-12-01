@@ -49,8 +49,7 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 5. [Comparative Summary](#comparative-summary)
 6. [Recommendations](#recommendations)
 7. [Technical Skills Used](#technical-skills-used)
-8. [Dashboard Preview](#dashboard-preview)
-9. [Conclusion](#conclusion)
+8. [Conclusion](#conclusion)
 
 ---
 
