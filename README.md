@@ -1,24 +1,19 @@
-# Excel Data Analysis Project: Maven Roasters Coffee Shop Sales Analysis
+# Maven Roasters Sales Analysis
 
-Sales analysis of Maven Roasters' three NYC locations (Hell’s Kitchen, Astoria, and Lower Manhattan) using transactional data from January to June 2023. Includes a dynamic Excel dashboard and actionable insights to optimize operations, boost sales, and improve customer engagement.
-
-
-## Maven Roasters Sales Analysis
-
-### Overview
+## Overview
 Maven Roasters, a fictitious coffee shop chain, operates in  three locations in New York: Hell’s Kitchen, Astoria, and Lower Manhattan. This project analyzes transactional data from January to June 2023 to uncover sales trends, identify peak times, and understand customer preferences.
-#### Goals:
+### Goals:
 - Transform the sales data into a dynamic dashboard. 
 - Identify trends and patterns in sales data.
 - Determine peak transaction periods and product preferences.
 - Develop actionable strategies to improve sales and customer satisfaction.
-#### Outcome:
+### Outcome:
 The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
 
 [PIC dash]
 
 
-### Key Highlights
+## Key Highlights
 
 - **Revenue Growth**:
     - Consistent upward trend across all locations, with significant growth in ***March*** and ***May***.
@@ -34,18 +29,19 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
     - **Brewed Chai Tea**: Shows significant popularity in ***Astoria***, reflecting customer preference for moderate-caffeine options in that area.
 ---
 
-### Table of Contents
+## Table of Contents
 1. [Dataset Description](#dataset-description)
 2. [Analysis Questions](#analysis-questions)
-3. [Findings by Location](#findings-by-location)
+3. [Revenue Trend Across Locations](#revenue-trend-across-locations)
+4. [Findings by Location](#findings-by-location)
    - [Hell's Kitchen](#hell's-kitchen)
    - [Astoria](#astoria)
    - [Lower Manhattan](#lower-manhattan)
-4. [Comparative Summary](#comparative-summary)
-5. [Recommendations](#recommendations)
-6. [Technical Skills Used](#technical-skills-used)
-7. [Dashboard Preview](#dashboard-preview)
-8. [Conclusion](#conclusion)
+5. [Comparative Summary](#comparative-summary)
+6. [Recommendations](#recommendations)
+7. [Technical Skills Used](#technical-skills-used)
+8. [Dashboard Preview](#dashboard-preview)
+9. [Conclusion](#conclusion)
 
 ---
 
@@ -72,6 +68,14 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 3. Which products are most/least popular? Which drive the most revenue?
 
 ---
+## Revenue Trend Across Locations:
+### Key Insights: 
+${\color{blue}\text{(common to all three locations)}}$
+
+
+- **February** saw a decline due to post-holiday fatigue, fewer weekdays, and limited food options.
+- Strong revenue growth from **March to May (maximum growth in May)** reflects high spring caffeine demand and increased customer traffic.
+- Minimal growth in **June** suggests stabilization, highlighting the need for targeted summer promotions.
 
 ## Findings by Location
 
@@ -181,7 +185,7 @@ The analysis resulted in a dynamic Excel dashboard and actionable recommendation
 
 ---
 
-### **Recommendations**
+## **Recommendations**
 
 - `Address February Decline`:
     - Launch **Valentine’s-themed** beverages and bakery items.
