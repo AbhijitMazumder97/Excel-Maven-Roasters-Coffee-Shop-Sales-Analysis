@@ -10,6 +10,13 @@ Maven Roasters, a fictitious coffee shop chain, operates in  three locations in 
 ### Outcome:
 The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
 
+![as2](https://github.com/user-attachments/assets/2be99bbf-173e-4a0c-be11-3c41fca46eda)
+![hks](https://github.com/user-attachments/assets/72edfc43-f3ce-406e-a162-921f3f4a297b)
+![lms](https://github.com/user-attachments/assets/322ae075-1293-4d0a-b31c-b020fce3894f)
+
+
+
+
 [PIC dash]
 
 
@@ -262,9 +269,6 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     - `Slicers`: Used a slicer with buttons for Hell's Kitchen, Lower Manhattan and Astoria to **filter and analyze data** specific to these locations.
     - `Pivot Tables`: Used to feature the **top 15 product types**.
 ---
-
-## Dashboard Preview
-<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/462cecb3b51e1d91/IQTNRGwwJiv3R4gnhoX2J8DxARntEnuOkhYZdwvKcmdkjhI?em=2&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
 ## Conclusion
 This analysis provides valuable insights into customer behavior and operational performance at Maven Roasters. By implementing the recommendations, the company can increase revenue, enhance customer satisfaction, and improve operational efficiency.
