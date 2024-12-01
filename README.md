@@ -264,9 +264,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](path/to/dashboard-image.png)
-<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/462cecb3b51e1d91/IQTNRGwwJiv3R4gnhoX2J8DxARntEnuOkhYZdwvKcmdkjhI?em=2&ActiveCell='Coffee%20Shop%20Sales%20Dasboard'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
----
+<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/462cecb3b51e1d91/IQTNRGwwJiv3R4gnhoX2J8DxARntEnuOkhYZdwvKcmdkjhI?em=2&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
 ## Conclusion
 This analysis provides valuable insights into customer behavior and operational performance at Maven Roasters. By implementing the recommendations, the company can increase revenue, enhance customer satisfaction, and improve operational efficiency.
