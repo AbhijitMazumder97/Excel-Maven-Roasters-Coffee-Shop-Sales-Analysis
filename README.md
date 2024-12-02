@@ -243,10 +243,10 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
 
 - `Host Events and Workshops`:
-    - **Host coffee-tea workshops** to boost brand engagement and sales.
+    - **Host coffee-tea workshops** to boost brand engagement and coffee-bean/Tea leaves sales.
  
       ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
-Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
+      Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
     - **Offer loyalty rewards** for workshop referrals.
 
