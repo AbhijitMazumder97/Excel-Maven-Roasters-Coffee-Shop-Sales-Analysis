@@ -1,39 +1,41 @@
-# Maven Roasters Sales Analysis
+# ${\color{brown}\text{MAVEN ROASTERS SALES ANALYSIS}}$
 
-## Overview
-Maven Roasters, a fictitious coffee shop chain, operates in  three locations in New York: Hell’s Kitchen, Astoria, and Lower Manhattan. This project analyzes transactional data from January to June 2023 to uncover sales trends, identify peak times, and understand customer preferences.
-### Goals:
+## ${\color{brown}\text{Overview}}$
+**Maven Roasters**, a fictitious coffee shop chain, operates in  three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to uncover sales trends, identify peak times, and understand customer preferences.
+### ${\color{brown}\text{Goals}}$
 - Transform the sales data into a dynamic dashboard. 
 - Identify trends and patterns in sales data.
 - Determine peak transaction periods and product preferences.
 - Develop actionable strategies to improve sales and customer satisfaction.
-### Outcome:
+### ${\color{brown}\text{Outcome}}$
 The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
 
+${\color{brown}\text{Astoria}}$
 ![as2](https://github.com/user-attachments/assets/2be99bbf-173e-4a0c-be11-3c41fca46eda)
 
+
+ ${\color{brown}\text{Hell's Kitchen}}$
 ![hks](https://github.com/user-attachments/assets/72edfc43-f3ce-406e-a162-921f3f4a297b)
 
+
+${\color{brown}\text{Lower Manhattan}}$
 ![lms](https://github.com/user-attachments/assets/322ae075-1293-4d0a-b31c-b020fce3894f)
 
 
 
 
-[PIC dash]
+## ${\color{brown}\text{Key Highlights}}$
 
-
-## Key Highlights
-
-- **Revenue Growth**:
+- **${\color{brown}\text{Revenue Growth:}}$**
     - Consistent upward trend across all locations, with significant growth in ***March*** and ***May***.
     - A decline in sales was noticed in ***February***.
   
-- **Peak Hours and Days**: Transactions peak during morning hours (especialy between 8–11 AM) across all locations, with notable differences in the busiest days:
+- **${\color{brown}\text{Peak Hours and Days:}}$**: Transactions peak during morning hours **(especialy between 8–11 AM) across all locations**, with notable differences in the busiest days:
     - **Hell’s Kitchen**: ***Friday*** sees the highest customer activity.
     - **Astoria**: ***Thursday*** is the most popular day.
     - **Lower Manhattan**: ***Monday*** leads in transactions.
       
-- **Top Products**:
+- **${\color{brown}\text{Top Products}}$**:
     - **Barista Espresso**: The top revenue generator across all locations, particularly popular in ***Hell’s Kitchen*** (revenue collected: ***$ 32,420.20***) and ***Lower Manhattan*** (revenue collected: ***$ 31,051.00***).
     - **Brewed Chai Tea**: Shows significant popularity in ***Astoria***, reflecting customer preference for moderate-caffeine options in that area.
 ---
