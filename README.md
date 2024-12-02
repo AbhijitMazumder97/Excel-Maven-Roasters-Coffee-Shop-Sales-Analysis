@@ -213,6 +213,8 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 - `Address February Decline`:
     - Launch **Valentine’s-themed** beverages and bakery items.
+ ![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
+
     - Introduce **limited-edition** branded chocolates and **Valentine's-themed** merchandise.
 
 - `Seasonal Menu`:
@@ -222,6 +224,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
         Photo by cottonbro studio: https://www.pexels.com/photo/ice-cream-in-clear-drinking-glass-4790062/
       
     - Roll out festive drinks like ***Pumpkin Spice Latte*** during the fall and ***Peppermint Mocha*** during the holidays.
+
 
 - `Weekend Offers`:
     - Introduce **“happy family combo”** on weekends to attract tourists and families.
