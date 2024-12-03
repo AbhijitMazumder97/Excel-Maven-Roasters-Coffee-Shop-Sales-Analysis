@@ -1,16 +1,16 @@
 # MAVEN ROASTERS SALES ANALYSIS
 
-## Overview
-**Maven Roasters**, a fictitious coffee shop chain, operates in  three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to uncover sales trends, identify peak times, and understand customer preferences.
+## Project Overview
+**Maven Roasters**, a fictitious coffee shop chain, operating at three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to **uncover sales trends, identify peak times, and understand customer preferences**.
 
 ### Goals
-- Transform the sales data into a dynamic dashboard. 
-- Identify trends and patterns in sales data.
-- Determine peak transaction periods and product preferences.
-- Develop actionable strategies to improve sales and customer satisfaction.
+- **Transform** the sales data into a dynamic dashboard. 
+- **Identify** trends and patterns in sales data.
+- **Determine** peak transaction periods and product preferences.
+- **Develop** actionable strategies to improve sales and customer satisfaction.
 
 ### Outcome
-The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
+The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. Location-specific dashboard visuals are pasted below for refference:
 
 ${\color{brown}\text{Astoria}}$
 ![as2](https://github.com/user-attachments/assets/2be99bbf-173e-4a0c-be11-3c41fca46eda)
