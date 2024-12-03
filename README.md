@@ -24,6 +24,9 @@ ${\color{brown}\text{Lower Manhattan}}$
 ![lms](https://github.com/user-attachments/assets/322ae075-1293-4d0a-b31c-b020fce3894f)
 
 
+
+
+
 ## Key Highlights
 
 - **${\color{brown}\text{Revenue Growth}}$**
