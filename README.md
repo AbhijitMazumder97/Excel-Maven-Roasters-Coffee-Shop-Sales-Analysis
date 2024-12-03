@@ -2,11 +2,13 @@
 
 ## Overview
 **Maven Roasters**, a fictitious coffee shop chain, operates in  three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to uncover sales trends, identify peak times, and understand customer preferences.
+
 ### Goals
 - Transform the sales data into a dynamic dashboard. 
 - Identify trends and patterns in sales data.
 - Determine peak transaction periods and product preferences.
 - Develop actionable strategies to improve sales and customer satisfaction.
+
 ### Outcome
 The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
 
@@ -56,12 +58,21 @@ ${\color{brown}\text{Lower Manhattan}}$
 ---
 
 ## Dataset Description
+
+![data desc](https://github.com/user-attachments/assets/58520e66-ddcc-4827-a043-43d3813bd688)
+![dataset](https://github.com/user-attachments/assets/fe0d4e2a-4ed1-4a93-a2e7-d3a8bbe067b2)
+
+
 - **Timeframe**: January 2023 – June 2023
 - **Volume**: 149,456 rows, 11 fields
 - **Calculated Columns**:
   - `Revenue`: Transaction quantity × Unit price.
-  - `Month`: Derived using **SWITCH** and **MONTH** functions. 
+  - `Month`: Derived using **SWITCH** and **MONTH** functions.
+    ![screenshotmonth](https://github.com/user-attachments/assets/cdbbfc33-93af-4392-b526-3021321f6890)
+
   - `Day`: Derived using **SWITCH** and **WEEKDAY** functions.
+    ![screenday](https://github.com/user-attachments/assets/61e7e710-cc11-423b-b762-995fbcf70014)
+
   - `Hour`:  Created using the **HOUR** function.
 - **Data Quality**:
   - No missing values or inconsistencies.
@@ -102,18 +113,22 @@ ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 - **Top Product**: Barista Espresso ($32,420 revenue)
 
 - **Daily and Hourly Insights**:
-![hkhourlydailytrans](https://github.com/user-attachments/assets/6ab3e4d7-6b3b-42c1-9671-cfa579de1702)
-${\color{brown}\text{Fig.: Hell's Kitchen daily and hourly transactions}}$
-
+  
     - `High Traffic on Fridays`: Reflects increased customer activity aligning with end-of-week routines.
     - `Weekend Preference`: Sunday outperforms weekdays like Monday, Wednesday, and Thursday, highlighting a strong customer preference for weekend visits.
     - `Peak Hours`: Occur between 8 AM and 11 AM, driven by commuter traffic and early coffee seekers.
     - `Post-11 AM Sales Decline`: Sales decline sharply after 11 AM but remain steady through 8 PM.
     - `Evening Sales Drop`: Sales drop significantly after 8 PM, likely due to reduced interest in hot beverages and customers exploring other dining options.
 
+  
+![hkhourlydailytrans](https://github.com/user-attachments/assets/6ab3e4d7-6b3b-42c1-9671-cfa579de1702)
+${\color{brown}\text{Fig.: Hell's Kitchen daily and hourly transactions}}$
 
 
-    ${\color{red}\text{Note: Each column in "Transactions by hour" visual represents an entire hour duration. Eg. 7 means between 7AM and 8AM. Similarly, 19 means between 7PM and 8PM. }}$
+  
+
+
+${\color{red}\text{Note: Each column in "Transactions by hour" visual represents an entire hour duration. Eg. 7 means between 7AM and 8AM. Similarly, 19 means between 7PM and 8PM. }}$
 ${\color{red}\text{Total number of transactions that occurred between 7AM and 8AM from January 2023 to June 2023 was 3455 in Hell's Kitchen.}}$
 
 
