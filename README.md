@@ -49,8 +49,7 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
 2. [Analysis Questions](#analysis-questions)
 3. [Revenue Insights Across All Locations](#revenue-insights-across-all-locations)
 4. [Location-Specific Insights](#location-specific-insights)
-   
-   - [Hell's Kitchen](#hell\'s-kitchen)
+   - [Hell's Kitchen](#hells-kitchen)
    - [Astoria](#astoria)
    - [Lower Manhattan](#lower-manhattan)
 5. [Comparative Summary](#comparative-summary)
