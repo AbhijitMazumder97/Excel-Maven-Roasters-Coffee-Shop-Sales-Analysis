@@ -247,7 +247,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
       ![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
    
     - Offer **limited time offer discounts** on coffee beans and tea leaves encouraging customers especially in residential areas to enjoy their coffee/tea from the comfort of their home.
-    - Offer **loyalty options** for instore shopping.
+    - Offer **loyalty options** for instore shopping during einter months like February.
 
       
 - **${\color{brown}\text{Events and Workshops:}}$**
