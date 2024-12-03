@@ -1,13 +1,13 @@
-# ${\color{brown}\text{MAVEN ROASTERS SALES ANALYSIS}}$
+# MAVEN ROASTERS SALES ANALYSIS
 
-## ${\color{brown}\text{Overview}}$
+## Overview
 **Maven Roasters**, a fictitious coffee shop chain, operates in  three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to uncover sales trends, identify peak times, and understand customer preferences.
-### ${\color{brown}\text{Goals}}$
+### Goals
 - Transform the sales data into a dynamic dashboard. 
 - Identify trends and patterns in sales data.
 - Determine peak transaction periods and product preferences.
 - Develop actionable strategies to improve sales and customer satisfaction.
-### ${\color{brown}\text{Outcome}}$
+### Outcome
 The analysis resulted in a dynamic Excel dashboard and actionable recommendations to support franchise owners in strategic decision-making. Key insights about customer behavior and product preferences are as follows:
 
 ${\color{brown}\text{Astoria}}$
@@ -24,18 +24,18 @@ ${\color{brown}\text{Lower Manhattan}}$
 
 
 
-## ${\color{brown}\text{Key Highlights}}$
+## Key Highlights
 
-- **${\color{brown}\text{Revenue Growth:}}$**
+- **Revenue Growth**
     - Consistent upward trend across all locations, with significant growth in ***March*** and ***May***.
     - A decline in sales was noticed in ***February***.
   
-- **${\color{brown}\text{Peak Hours and Days:}}$**: Transactions peak during morning hours **(especialy between 8–11 AM) across all locations**, with notable differences in the busiest days:
+- **Peak Hours and Days**: Transactions peak during morning hours **(especialy between 8–11 AM) across all locations**, with notable differences in the busiest days:
     - **Hell’s Kitchen**: ***Friday*** sees the highest customer activity.
     - **Astoria**: ***Thursday*** is the most popular day.
     - **Lower Manhattan**: ***Monday*** leads in transactions.
       
-- **${\color{brown}\text{Top Products}}$**:
+- **Top Products**:
     - **Barista Espresso**: The top revenue generator across all locations, particularly popular in ***Hell’s Kitchen*** (revenue collected: ***$ 32,420.20***) and ***Lower Manhattan*** (revenue collected: ***$ 31,051.00***).
     - **Brewed Chai Tea**: Shows significant popularity in ***Astoria***, reflecting customer preference for moderate-caffeine options in that area.
 ---
