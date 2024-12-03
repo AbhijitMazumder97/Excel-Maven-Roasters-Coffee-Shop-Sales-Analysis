@@ -48,7 +48,7 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
 1. [Dataset Description](#dataset-description)
 2. [Analysis Questions](#analysis-questions)
 3. [Revenue Insights Across All Locations](#revenue-insights-across-all-locations)
-4. [Location-Specific Insights](#location--specific-insights)
+4. [Specific Insights by Location](#specific-insights-by-location)
    - [Hell's Kitchen](#hell's-kitchen)
    - [Astoria](#astoria)
    - [Lower Manhattan](#lower-manhattan)
@@ -105,7 +105,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 - Strong revenue growth from **March to May (maximum growth in May)** reflects high spring caffeine demand and increased customer traffic.
 - Minimal growth in **June** suggests stabilization, highlighting the need for targeted summer promotions.
 
-## Specific Insights by locations
+## Specific Insights by Location
 
 ### **Hell’s Kitchen**
 
