@@ -24,8 +24,6 @@ ${\color{brown}\text{Lower Manhattan}}$
 ![lms](https://github.com/user-attachments/assets/322ae075-1293-4d0a-b31c-b020fce3894f)
 
 
-
-
 ## Key Highlights
 
 - **${\color{brown}\text{Revenue Growth}}$**
@@ -110,7 +108,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 ### **Hell’s Kitchen**
 
 - **${\color{brown}\text{Top Transaction Day:}}$** Friday (7,489 transactions)
-- **${\color{brown}\text{Top Transaction Hour:}}$** 8–11 AM
+- **${\color{brown}\text{Top Transaction Hours:}}$** 8–11 AM
 - **${\color{brown}\text{Top Product:}}$** Barista Espresso ($32,420 revenue)
 
 - **${\color{brown}\text{Daily and Hourly Insights:}}$**
@@ -133,14 +131,14 @@ ${\color{red}\text{Note: Each column in "Transactions by hour" visual represents
 ${\color{red}\text{Total number of transactions that occurred between 7AM and 8AM from January 2023 to June 2023 was 3455 in Hell's Kitchen.}}$
 
 
-- **${\color{brown}\text{Product Performance Insights}}$**:
+- **${\color{brown}\text{Product Performance Insights:}}$**
  
-    - `High-Caffeine Preference`: Customers tend to prefer high-caffeine-content espresso-based beverages like Barista Espresso.
-    - `Moderate-Caffeine Preference`: There is a significant preference for moderate-caffeine beverages like Brewed Chai Tea.
+    - `High-Caffeine Preference`: Customers tend to prefer **high-caffeine-content espresso-based beverages** like Barista Espresso.
+    - `Moderate-Caffeine Preference`: There is a significant preference for **moderate-caffeine beverages** like Brewed Chai Tea.
     - `Bakery Pairing`: The popularity of bakery items, especially scones, shows that customers like to pair their beverages with baked goods.
-    - `Non-Caffeinated Options`: Hot chocolate’s popularity indicates that customers also prefer non-caffeinated options.
-    - `Syrup Flavours`: More customers tend to prefer regular syrup flavours over sugar-free ones. 
-    - `Take-Home Products`: Customers show less interest in take-home products like coffee beans, loose tea, packaged chocolate, and branded items.
+    - `Non-Caffeinated Options`: **Hot chocolate’s** popularity indicates that customers also prefer **non-caffeinated options**.
+    - `Syrup Flavours`: More customers tend to **prefer regular syrup flavours** over sugar-free ones. 
+    - `Take-Home Products and packaged items`: Customers show **less interest in take-home products and packaged items** like coffee beans, loose tea, packaged chocolate, and branded items. **Strong Preference for fresh products**.
 
  ![hkpopular](https://github.com/user-attachments/assets/6af623fe-5bec-427b-a476-8d950e01669f)
   ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
@@ -152,59 +150,60 @@ ${\color{red}\text{Total number of transactions that occurred between 7AM and 8A
 
 
 
-- **Top Transaction Day**: Thursday (7,427 transactions)
-- **Top Transaction Hour**: 10–11 AM
-- **Top Product**: Brewed Chai Tea (6,293 transactions)
+- **${\color{brown}\text{Top Transaction Day:}}$** Thursday (7,427 transactions)
+- **${\color{brown}\text{Top Transaction Hours:}}$** 7–11 AM
+- **${\color{brown}\text{Top Product:}}$** Brewed Chai Tea (6,293 transactions)
 
   
-- **Daily and Hourly Insights**:
+- **${\color{brown}\text{Daily and Hourly Insights:}}$**
+
  ![ashourlydailytrans](https://github.com/user-attachments/assets/83d9525d-59e4-444f-a6f2-c2cf1ea74d73)
 ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
 
-  - `Midweek Spike`: High Thursday transactions reflect a midweek spike in caffeine demand.
-  - `Lower Saturday and Tuesday Visits`: Less customers showed up on Tuesdays and Saturdays indicating less caffeine demand on these day. Customers are exploring other options like **Taco Tuesdays** or **Saturday-special Brunch** menus.
-  - `Weekend Trends`: Weekend caffeine demand is lower as customers explore other food options and activities, though more customers visit on Sundays compared to Saturdays.
-  - `Morning Dominance`: Sales dominate in the mornings (7 AM–11 AM), indicating high commuter activity.
-  - `Steady Evening Flow`: Steady customer flow all day with consistent evening activity, likely due to residents and professionals returning from work.
+  - `Midweek Spike`: High Thursday transactions reflect a midweek spike in caffeine demand. **Increasing Mid-week caffeine** demand probably driven by **residents taking breaks from their daily routine and remote working professionals combating work fatigue**.
+  - `Lower Saturday and Tuesday Visits`: **Less caffeine demand** on Tuesdays and Saturdays indicating customers are exploring other options like **Taco Tuesdays** or **Saturday-special Brunch-Dinner** options.
+  - `Weekend Trends`: Weekend caffeine demand is **lower as customers explore other food options and activities**, though **more customers visit on Sundays** compared to Saturdays.
+  - `Morning Dominance`: Sales **dominate in the morning hours (7 AM–11 AM)**, indicating **high commuter activity**.
+  - `Steady Evening Flow`: Steady customer flow all day with **consistent evening activity**, likely due to **residents and professionals returning from work**.
     
-- **Product Performance Insights**:
+- **${\color{brown}\text{Product Performance Insights:}}$**
   ![aspopular](https://github.com/user-attachments/assets/fb836a20-20cb-4aa0-af25-44b1289b08ed)
 ${\color{brown}\text{Fig.: Astoria product performance and revenue}}$
 
-  - `Moderate-Caffeine Preference`: Customers favor moderate-caffeine beverages like Brewed Chai Tea over high-caffeine options like Barista Espresso.
-  - `Non-Caffeinated Options`: The popularity of hot chocolate shows that customers also enjoy non-caffeinated options.
-  - `Bakery Popularity`: People prefer pairing scones with their beverages, making them more popular than pastries and biscotti, similar to the trend in Hell's Kitchen.
-  - `Syrup Flavors`: More customers prefer regular syrup flavors over sugar-free ones.
-  - `Take-Home Products`: Customers show less interest in take-home products such as coffee beans, loose tea, packaged chocolate, and branded items.
+  - `Moderate-Caffeine Preference`: Customers **favor moderate-caffeine beverages like Brewed Chai Tea** over high-caffeine options like Barista Espresso.
+  - `Non-Caffeinated Options`: The popularity of **hot chocolate** shows that **customers also enjoy non-caffeinated options**.
+  - `Bakery Popularity`: People prefer pairing bakery with their beverages. **Scones are strongly preferred** among other bakery options like pastries and biscotti, **similar to the trend in Hell's Kitchen**.
+  - `Syrup Flavors`: **Preference for regular syrup flavors** over sugar-free ones.
+  - `Take-Home and Packaged Products`: Customers show **less interest** in take-home products such as coffee beans, loose tea, packaged chocolate, and branded items.
 
 
 ---
 
 ### **Lower Manhattan**
 
-- **Top Transaction Day**: Monday (7,136 transactions)
-- **Top Transaction Hour**: 7–10 AM
-- **Top Product**: Barista Espresso ($31,051 revenue)
+- **${\color{brown}\text{Top Transaction Day:}}$**  Monday (7,136 transactions)
+- **${\color{brown}\text{Top Transaction Hours:}}$** 7–11 AM
+- **${\color{brown}\text{Top Product:}}$** Barista Espresso ($31,051 revenue)
 
-- **Daily and Hourly Insights**:
+- **${\color{brown}\text{Daily and Hourly Insights:}}$**
 ![lmdailyhourlytrans](https://github.com/user-attachments/assets/27c0e5fe-bd98-4d4d-b593-1ef8dedbf383)
 ${\color{brown}\text{Fig.: Lower Manhattan daily and hourly transactions}}$
 
-  - `Monday Visits`: Most customers visit on Mondays, likely for a caffeine boost or a quick grab on their way to work.
-  - `Midweek Spikes`: Midweek spikes in transactions, similar to the trend in Astoria, are probably due to client meetings.
-  - `Weekend Decrease`: Weekend transactions decrease due to lower demand and less foot traffic.
-  - `Morning Dominance`: Most customers visit before 11 AM, with sales dropping by 60.52% afterward, likely due to low caffeine demand and limited food options.
-  - `Evening Decline`: Decreasing sales after 4 PM and very few sales after 7 PM show minimal foot traffic and low interest in hot beverages during evening hours.
+  - `Monday Visits`: Most customers visit on Mondays, likely for a **early-week caffeine boost or a quick grab on their way to work**.
+  - `Midweek Spikes`: Midweek spikes in transactions, similar to the trend in Astoria, are probably due to **client meetings or professionals fighting work fatigue**.
+  - `Weekend Decrease`: Weekend transactions decrease due to **lower demand and less foot traffic**.
+  - `Morning Dominance`: Most customers **visit before 11 AM, with sales dropping heavily afterward**, likely due to **low caffeine demand and limited food options**.
+  - `Evening Decline`: Decreasing sales after 4 PM and **very few sales after 7 PM show minimal foot traffic and low interest in hot beverages during evening hours**.
     
-- **Product Performance Insights**:
+- **${\color{brown}\text{Product Performance Insights:}}$**
 ![lmpopuar](https://github.com/user-attachments/assets/a563eedd-1594-4e18-a5a8-9c0a6455fb4f)
 ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
-  - `Caffeine Preferences`: Customers prefer high-to-moderate caffeine drinks like Barista Espresso, Gourmet Brewed Coffee, and Brewed Chai Tea. Black and herbal teas are also popular.
-  - `Bakery Pairing`: The popularity of bakery items, especially scones, indicates that customers enjoy pairing their beverages with baked goods(similar to the trend in Astoria and Hell's Kitchen).
-  - `Hot Chocolate Appeal`: Hot chocolate, though less popular (compared to the trend in Astoria and Hell's Kitchen), generated ***$ 22.4k***, appealing to tourists, children, and families.
+  - `Caffeine Preferences`: **Customers prefer high-to-moderate caffeine options** like Barista Espresso, Gourmet Brewed Coffee, and Brewed Chai Tea **probably to boost their productivity**. Black and herbal teas are also popular.
+  - `Bakery Pairing`: **Scones** are a popular beverage pairing option(**similar to the trend in Astoria and Hell's Kitchen**).
+  - `Hot Chocolate Appeal`: **Hot chocolate**, though **less popular** (compared to the trend in Astoria and Hell's Kitchen), generated ***$ 22.4k***, **appealing to tourists, children, and families**.
   - `Syrup Flavors`: Regular syrup flavors are preferred over sugar-free ones.
-  - `Take-Home Products`: Customers show less interest in take-home products like coffee beans, loose tea, packaged chocolate, and branded items.
+  - `Take-Home Products`: Customers **prefer fresh food items** over **packaged and take-home products** like coffee beans, loose tea, packaged chocolate, and branded items.
 
 ---
 
