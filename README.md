@@ -243,6 +243,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 - **${\color{brown}\text{Address February Decline:}}$**
     - **Leverage Valentine's Week**: Launch **Valentine’s-themed** beverages, **limited-edition** branded chocolates, bakery items and **Valentine's-themed** merchandise to boost sales.
+
       ![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
    
     - Offer **limited time offer discounts** on coffee beans and tea leaves encouraging customers especially in residential areas to enjoy their coffee/tea from the comfort of their home.
@@ -251,14 +252,16 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
       
 - **${\color{brown}\text{Events and Workshops:}}$**
     - **Host coffee-tea workshops** to boost brand engagement and coffee-bean/Tea leaves sales.
- 
-      ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
-        Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
-
     - **Offer loyalty rewards** for workshop referrals.
  
+      ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
+
+      Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
+
+   
+ 
 - **${\color{brown}\text{Expand Menu:}}$**
-    - **Introduce grab-and-go customizable “all-day sandwiches” and “lunch wraps”** to boost sales, especially post-11am.
+    - Introduce grab-and-go customizable **“all-day sandwiches” and “lunch wraps”** to boost sales, especially post-11am.
     - **Add healthy options** like fresh salads and soup to your lunch and dinner menu.
     - **Add non-caffeinated beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
       
