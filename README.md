@@ -214,7 +214,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 | **Least Transaction Day**   | Saturday                                       | Saturday                                    | Sunday                                      |
 | **Top Transaction Day**     | Friday                                         | Thursday                                    | Monday                                      |
 | **Peak Hours**              | 8 AM - 11 AM                                   | 7 AM - 11 AM                                | 7 AM - 11 AM                                |
-| **Evening Activity**        | Consistent evening activity till 8 PM.         | Consistent activity till 8 PM.              | Sales decreasing post-5 PM. Very few sales post-7 PM. |
+| **Evening Activity**        | Consistent evening activity till 8 PM experiencing a sharp decrease afterward.         | Consistent activity till 8 PM.              | Sales decreasing post-5 PM. Very few sales post-7 PM. |
 | **Midweek Activity**        | Drop in sales on Wednesdays; peak on Friday.   | Midweek spike in sales on Thursdays.        | Midweek spike in sales on Thursdays.        |
 | **Top Product**             | Barista Espresso                               | Brewed Chai Tea                             | Barista Espresso                            |
 | **Least Popular Product**   | Branded Items (119 transactions)               | Packaged Chocolate (110 transactions)       | Packaged Chocolate (180 transactions)       |
