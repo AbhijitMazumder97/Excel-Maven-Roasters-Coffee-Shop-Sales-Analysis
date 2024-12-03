@@ -12,19 +12,8 @@
 ### Outcome
 The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. Location-specific dashboard visuals are pasted below for refference:
 
-${\color{brown}\text{Astoria}}$
-![as2](https://github.com/user-attachments/assets/2be99bbf-173e-4a0c-be11-3c41fca46eda)
 
-
- ${\color{brown}\text{Hell's Kitchen}}$
-![hks](https://github.com/user-attachments/assets/72edfc43-f3ce-406e-a162-921f3f4a297b)
-
-
-${\color{brown}\text{Lower Manhattan}}$
-![lms](https://github.com/user-attachments/assets/322ae075-1293-4d0a-b31c-b020fce3894f)
-
-
-
+https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 
 
 ## Key Highlights
@@ -143,8 +132,8 @@ ${\color{red}\text{Total number of transactions that occurred between 7AM and 8A
     - `Syrup Flavours`: More customers tend to **prefer regular syrup flavours** over sugar-free ones. 
     - `Take-Home Products and packaged items`: Customers show **less interest in take-home products and packaged items** like coffee beans, loose tea, packaged chocolate, and branded items. **Strong Preference for fresh products**.
 
- ![hkpopular](https://github.com/user-attachments/assets/6af623fe-5bec-427b-a476-8d950e01669f)
-  ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
+![Uploading hkproductperformance.png…]()
+${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
 
 
 ---
@@ -170,8 +159,10 @@ ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
   - `Steady Evening Flow`: Steady customer flow all day with **consistent evening activity**, likely due to **residents and professionals returning from work**.
     
 - **${\color{brown}\text{Product Performance Insights:}}$**
-  ![aspopular](https://github.com/user-attachments/assets/fb836a20-20cb-4aa0-af25-44b1289b08ed)
-${\color{brown}\text{Fig.: Astoria product performance and revenue}}$
+  
+  ![Uploading astoria_product_performance.png…]()
+
+  ${\color{brown}\text{Fig.: Astoria product performance and revenue}}$
 
   - `Moderate-Caffeine Preference`: Customers **favor moderate-caffeine beverages like Brewed Chai Tea** over high-caffeine options like Barista Espresso.
   - `Non-Caffeinated Options`: The popularity of **hot chocolate** shows that **customers also enjoy non-caffeinated options**.
@@ -199,7 +190,9 @@ ${\color{brown}\text{Fig.: Lower Manhattan daily and hourly transactions}}$
   - `Evening Decline`: Decreasing sales after 4 PM and **very few sales after 7 PM show minimal foot traffic and low interest in hot beverages during evening hours**.
     
 - **${\color{brown}\text{Product Performance Insights:}}$**
-![lmpopuar](https://github.com/user-attachments/assets/a563eedd-1594-4e18-a5a8-9c0a6455fb4f)
+
+![Uploading lmproductperformance.png…]()
+
 ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
   - `Caffeine Preferences`: **Customers prefer high-to-moderate caffeine options** like Barista Espresso, Gourmet Brewed Coffee, and Brewed Chai Tea **probably to boost their productivity**. Black and herbal teas are also popular.
@@ -275,6 +268,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
         Photo by cottonbro studio: https://www.pexels.com/photo/ice-cream-in-clear-drinking-glass-4790062/
       
     - Roll out festive drinks like ***Pumpkin Spice Latte*** during the fall and ***Peppermint Mocha*** during the holidays.
+![holiday and fall](https://github.com/user-attachments/assets/5fc09dc0-be19-455d-9d79-79fea5cea4e2)
 
 
 - **${\color{brown}\text{Weekend Offers:}}$**
@@ -286,7 +280,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 - **${\color{brown}\text{Leverage Delivery Services:}}$** **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
-    - **Offer affordable daily-use items** like tote bags, reusable coffee sleeves, stickers, and notepads.
+    - Offer affordable daily-use items like **tote bags, reusable coffee sleeves, stickers, and notepads**.
     - **Introduce festive/limited edition local-themed mugs and t-shirts** to build brand loyalty.
 
 - **${\color{brown}\text{Gift-Chocolates:}}$**
