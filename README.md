@@ -244,15 +244,16 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 ## **Recommendations**
 
 - **${\color{brown}\text{Address February Decline:}}$**
+  
     - Leverage **Valentine's Week** and launch **special Valentine’s-themed** beverages, **limited-edition** branded chocolates, bakery items and **Valentine's-themed** merchandise to boost sales.
-
-![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
-**${\color{brown}\text{Fig: Red Velvet Latte}}$**
-   
     - Offer **limited time offer discounts** on **coffee beans and tea leaves** encouraging customers especially in residential areas to enjoy their coffee/tea from the comfort of their home.
     - Offer **loyalty options** for instore shopping during the winter months like February.
 
+![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
+
+**${\color{brown}\text{Fig: Red Velvet Latte}}$**
       
+
 - **${\color{brown}\text{Events and Workshops:}}$**
     - **Host coffee-tea workshops** to boost brand engagement and coffee-bean/Tea leaves sales.
     - **Offer loyalty rewards** for workshop referrals.
@@ -298,29 +299,33 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
     - Offer affordable daily-use items like **tote bags, reusable coffee sleeves, stickers, and notepads**.
+    - Introduce **festive/limited edition local-themed mugs, t-shirts or hoodies** to build brand loyalty.
       
 ![coffee cup sleeve](https://github.com/user-attachments/assets/a90cfa63-412c-4d28-995e-fc8d5ebf9f62)
+
 **${\color{brown}\text{Fig: Reusable Coffee cup sleeves}}$**
       
 ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
+
 **${\color{brown}\text{Fig: Tote bags}}$**
       
-    - **Introduce festive/limited edition local-themed mugs, t-shirts or hoodies** to build brand loyalty.
-      
 ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
+
 **${\color{brown}\text{Fig: Astoria themed Hellgate Bridge Hoodie}}$**
 
 
 - **${\color{brown}\text{Gift-Chocolates:}}$**
   
     - Market chocolates as **gift items** by improving packaging (e.g., gift boxes, ribbons).
+    - Promote **seasonal offerings** (e.g., holiday-themed chocolates).
+    - Conduct **taste events and surveys** to understand customer preferences.
       
 ![19897962_fpx](https://github.com/user-attachments/assets/aa431ce0-a067-41db-9da7-00988ad1e1ad)
 
 **${\color{brown}\text{Fig: Chocolate Gift box}}$**
 
-    - Promote **seasonal offerings** (e.g., holiday-themed chocolates).
-    - Conduct **taste events and surveys** to understand customer preferences.
+   
+
 
 - **${\color{brown}\text{App and social media:}}$**
     - **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
