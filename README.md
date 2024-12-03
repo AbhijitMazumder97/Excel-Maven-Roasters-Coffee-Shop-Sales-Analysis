@@ -132,7 +132,8 @@ ${\color{red}\text{Total number of transactions that occurred between 7AM and 8A
     - `Syrup Flavours`: More customers tend to **prefer regular syrup flavours** over sugar-free ones. 
     - `Take-Home Products and packaged items`: Customers show **less interest in take-home products and packaged items** like coffee beans, loose tea, packaged chocolate, and branded items. **Strong Preference for fresh products**.
 
-![Uploading hkproductperformance.png…]()
+![hkproductperformance](https://github.com/user-attachments/assets/438e8ffd-f70c-4d2c-90ff-ed99ec2a04d4)
+
 ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
 
 
@@ -160,7 +161,8 @@ ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
     
 - **${\color{brown}\text{Product Performance Insights:}}$**
   
-  ![Uploading astoria_product_performance.png…]()
+  
+![astoria_product_performance](https://github.com/user-attachments/assets/00699db5-7f4d-4dbb-a37d-4091b197ed0c)
 
   ${\color{brown}\text{Fig.: Astoria product performance and revenue}}$
 
@@ -191,7 +193,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan daily and hourly transactions}}$
     
 - **${\color{brown}\text{Product Performance Insights:}}$**
 
-![Uploading lmproductperformance.png…]()
+![lmproductperformance](https://github.com/user-attachments/assets/fd696ddd-8522-4a66-96ed-4d20ff169d9b)
 
 ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
@@ -281,7 +283,13 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
     - Offer affordable daily-use items like **tote bags, reusable coffee sleeves, stickers, and notepads**.
-    - **Introduce festive/limited edition local-themed mugs and t-shirts** to build brand loyalty.
+      ![coffee cup sleeve](https://github.com/user-attachments/assets/a90cfa63-412c-4d28-995e-fc8d5ebf9f62)
+      **${\color{brown}\text{Fig: Reusable Coffee cup sleeves}}$**
+      ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
+      **${\color{brown}\text{Fig: Tote bags}}$**
+    - **Introduce festive/limited edition local-themed mugs, t-shirts or hoodies** to build brand loyalty.
+![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
+
 
 - **${\color{brown}\text{Gift-Chocolates:}}$**
     - Market chocolates as **gift items** by improving packaging (e.g., gift boxes, ribbons).
