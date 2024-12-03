@@ -215,28 +215,55 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 | **Top Transaction Day**     | Friday                                         | Thursday                                    | Monday                                      |
 | **Peak Hours**              | 8 AM - 11 AM                                   | 7 AM - 11 AM                                | 7 AM - 11 AM                                |
 | **Evening Activity**        | Consistent evening activity till 8 PM experiencing a sharp decrease afterward.         | Consistent activity till 8 PM.              | Sales decreasing post-5 PM. Very few sales post-7 PM. |
-| **Midweek Activity**        | Drop in sales on Wednesdays; peak on Friday.   | Midweek spike in sales on Thursdays.        | Midweek spike in sales on Thursdays.        |
+| **Midweek Activity**        | Sales increased from Thursdays after experiencing a drop on Wednesdays reaching peak on Friday.   | Sales increased from Wednesdays and reached its peak on Thursdays after facing a decline on Tuesdays.        | Midweek spike in sales on Thursdays.        |
 | **Top Product**             | Barista Espresso                               | Brewed Chai Tea                             | Barista Espresso                            |
 | **Least Popular Product**   | Branded Items (119 transactions)               | Packaged Chocolate (110 transactions)       | Packaged Chocolate (180 transactions)       |
 | **Drinking Chocolate Popularity** | 4th rank (3763 transactions)                | 4th rank (4300 transactions)                | 7th rank (3405 transactions)                |
-| **February Drop**           | 7.55%                                         | 8.09%                                       | 4.61%                                       |
+| **February Sales Drop**           | 7.55%                                         | 8.09%                                       | 4.61%                                       |
 | **Spring Performance (March-May)** | Total Revenue: $126,013.64<br>Max revenue increase: May (30.51%) | Total Revenue: $124,741.80<br>Max revenue increase: May (32.81%) | Total Revenue: $123,748.08<br>Max revenue increase: May (32.02%) |
 | **Average Transactions Before 11 AM** | 5152.8                                      | 4880.25                                     | 5340                                       |
 | **Average Transactions After 11 AM**  | 2497.10                                     | 3453.11                                     | 2108.20                                    |
 | **Average Decrease Post 11 AM** | 51.54%                                       | 29.24%                                     | 60.52%                                     |
 
+
+**${\color{red}\text{Note:}}$**
+
+**${\color{brown}\text{Key Insights:}}$**
+  - `February Drop`: Astoria showed the maximum sales decline, as **residential customers prioritized essential needs over discretionary items** due to post-holiday fatigue and colder weather.
+  - `Post-11 AM Sales`: Lower Manhattan experienced a **sharp decline in sales after 11 AM, driven by limited lunch options**.
+  - `Midweek Activity`: Thursdays are consistently active across all regions, reflecting **growing caffeine demand midweek**.
+  - `Evening Activity`: Astoria and Hell’s Kitchen maintain **steady evening sales until 8 PM**, unlike Lower Manhattan, where **sales drop significantly after 4 PM**.
+  - `Weekend Activity`: **Weekends see lower activity overall**, with Saturdays least active in Hell’s Kitchen and Astoria, and Sundays least active in Lower Manhattan.
+
+    
+  
 ---
 
 ## **Recommendations**
 
-- `Address February Decline`:
-    - Launch **Valentine’s-themed** beverages and bakery items.
- ![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
+- **${\color{brown}\text{Address February Decline:}}$**
+    - **Leverage Valentine's Week**: Launch **Valentine’s-themed** beverages, **limited-edition** branded chocolates, bakery items and **Valentine's-themed** merchandise to boost sales.
+      ![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
+   
+    - Offer **limited time offer discounts** on coffee beans and tea leaves encouraging customers especially in residential areas to enjoy their coffee/tea from the comfort of their home.
+    - Offer **loyalty options** for instore shopping.
 
-    - Introduce **limited-edition** branded chocolates and **Valentine's-themed** merchandise.
+      
+- **${\color{brown}\text{Events and Workshops:}}$**
+    - **Host coffee-tea workshops** to boost brand engagement and coffee-bean/Tea leaves sales.
+ 
+      ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
+        Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
-- `Seasonal Menu`:
-    - Promote **limited edition iced beverages and summer special snacks** during the summer.
+    - **Offer loyalty rewards** for workshop referrals.
+ 
+- **${\color{brown}\text{Expand Menu:}}$**
+    - **Introduce grab-and-go customizable “all-day sandwiches” and “lunch wraps”** to boost sales, especially post-11am.
+    - **Add healthy options** like fresh salads and soup to your lunch and dinner menu.
+    - **Add non-caffeinated beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
+      
+- **${\color{brown}\text{Seasonal Menu:}}$**
+    - Introduce a rotating seasonal menu and promote **limited edition iced beverages and summer special snacks** during the summer.
 
         ![pexels-cottonbro-4790062](https://github.com/user-attachments/assets/1fe1ed2f-731f-47e4-8a5b-473b55eb2d35)
         Photo by cottonbro studio: https://www.pexels.com/photo/ice-cream-in-clear-drinking-glass-4790062/
@@ -244,43 +271,29 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     - Roll out festive drinks like ***Pumpkin Spice Latte*** during the fall and ***Peppermint Mocha*** during the holidays.
 
 
-- `Weekend Offers`:
+- **${\color{brown}\text{Weekend Offers:}}$**
     - Introduce **“happy family combo”** on weekends to attract tourists and families.
     - Offer **loyalty points** for **word-of-mouth referrals** to friends.
 
-- `Customer Surveys`: Conduct surveys regularly to understand **customer preferences** and modify the menu accordingly.
+- **${\color{brown}\text{Customer Surveys:}}$** Conduct surveys regularly to understand **customer preferences** and modify the menu accordingly.
 
-- `Expand Menu`:
-    - **Introduce grab-and-go customizable “all-day sandwiches” and “lunch wraps”** to boost sales, especially post-11am.
-    - **Add healthy options** like fresh salads and soup to your lunch and dinner menu.
-    - **Add non-caffeinated beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
+- **${\color{brown}\text{Leverage Delivery Services:}}$** **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
 
-- `Leverage Delivery Services`:
-    - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
-
-- `Host Events and Workshops`:
-    - **Host coffee-tea workshops** to boost brand engagement and coffee-bean/Tea leaves sales.
- 
-      ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
-      Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
-
-    - **Offer loyalty rewards** for workshop referrals.
-
-- `Expand Merchandise`:
+- **${\color{brown}\text{Expand Merchandise:}}$**
     - **Offer affordable daily-use items** like tote bags, reusable coffee sleeves, stickers, and notepads.
     - **Introduce festive/limited edition local-themed mugs and t-shirts** to build brand loyalty.
 
-- `Gift-Chocolates`:
+- **${\color{brown}\text{Gift-Chocolates:}}$**
     - Market chocolates as **gift items** by improving packaging (e.g., gift boxes, ribbons).
     - Promote **seasonal offerings** (e.g., holiday-themed chocolates).
     - Conduct **taste events and surveys** to understand customer preferences.
 
-- `App and social media`:
+- **${\color{brown}\text{App and social media:}}$**
     - **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
     - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
     -  Online campaign ads on social media to promote less popular products.
 
-- `Closing Time`:
+- **${\color{brown}\text{Closing Time:}}$**
     - **Lower Manhattan**:
         - **Close early** due to minimal foot traffic **after 7pm**.
         - Focus on **quick service, lunch, and delivery options** for working professionals.
@@ -290,8 +303,8 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 ---
 
 ## Technical Skills Used
-- **Tools**: Microsoft Excel
-- **Techniques and Visualization**:
+- **${\color{brown}\text{Tools:}}$**: Microsoft Excel
+- **${\color{brown}\text{Techniques and Visualization:}}$**
     - `Calculated columns` : Derived calculated columns like **Revenue, Day, Hour, and Month using functions SWITCH, MONTH, WEEKDAY and HOUR**.
     -  `Conditional formatting`: Used the conditional formatting feature to highlight the **Revenue** column in the top 15 product types pivot table, ensuring **darker shades highlight high revenue** and **lighter shades highlight lower revenue figures**.
     - `Line charts`: Used to feature the **revenue growth trend**.
