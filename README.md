@@ -268,7 +268,7 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
 - **${\color{brown}\text{Expand Menu:}}$**
     - Introduce grab-and-go customizable **all-day sandwiches and lunch wraps** to boost sales, especially post-11am.
 ![Grilled_Chicken](https://github.com/user-attachments/assets/bc5c5f28-2fa1-417e-97dd-abcb8d18b7df)
-**${\color{brown}\text{Fig: Grilled chicken sandwich parired with iced Tea}}$**
+**${\color{brown}\text{Fig: Grilled chicken sandwich paired with iced Tea}}$**
 
     - Add **healthy options** like fresh salads and soup to your lunch and dinner menu.
     - **Add non-caffeinated iced beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
