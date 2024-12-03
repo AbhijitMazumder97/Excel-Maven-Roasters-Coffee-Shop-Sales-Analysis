@@ -48,8 +48,8 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
 1. [Dataset Description](#dataset-description)
 2. [Analysis Questions](#analysis-questions)
 3. [Revenue Insights Across All Locations](#revenue-insights-across-all-locations)
-4. [Specific Insights by Location](#specific-insights-by-location)
-   - [Hell's Kitchen](#hell's-kitchen)
+4. [Location-Specific Insights](#location\--specific-insights)
+   - [Hell's Kitchen](#hell\'s-kitchen)
    - [Astoria](#astoria)
    - [Lower Manhattan](#lower-manhattan)
 5. [Comparative Summary](#comparative-summary)
@@ -105,21 +105,21 @@ ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 - Strong revenue growth from **March to May (maximum growth in May)** reflects high spring caffeine demand and increased customer traffic.
 - Minimal growth in **June** suggests stabilization, highlighting the need for targeted summer promotions.
 
-## Specific Insights by Location
+## Location-Specific Insights
 
 ### **Hell’s Kitchen**
 
-- **${\color{brown}\text{Top Transaction Day}}$**:: Friday (7,489 transactions)
-- **${\color{brown}\text{Top Transaction Hour}}$**:: 8–11 AM
-- **${\color{brown}\text{Top Product}}$**:: Barista Espresso ($32,420 revenue)
+- **${\color{brown}\text{Top Transaction Day:}}$** Friday (7,489 transactions)
+- **${\color{brown}\text{Top Transaction Hour:}}$** 8–11 AM
+- **${\color{brown}\text{Top Product:}}$** Barista Espresso ($32,420 revenue)
 
-- **${\color{brown}\text{Daily and Hourly Insights}}$**:
+- **${\color{brown}\text{Daily and Hourly Insights:}}$**
   
-    - `High Traffic on Fridays`: Reflects increased customer activity aligning with end-of-week routines.
-    - `Weekend Preference`: Sunday outperforms weekdays like Monday, Wednesday, and Thursday, highlighting a strong customer preference for weekend visits.
-    - `Peak Hours`: Occur between 8 AM and 11 AM, driven by commuter traffic and early coffee seekers.
-    - `Post-11 AM Sales Decline`: Sales decline sharply after 11 AM but remain steady through 8 PM.
-    - `Evening Sales Drop`: Sales drop significantly after 8 PM, likely due to reduced interest in hot beverages and customers exploring other dining options.
+    - `High Traffic on Fridays`: Reflects **increased customer activity** aligning with **end-of-week routines**.
+    - `Weekend Preference`: **Sunday outperforms** weekdays like Monday, Wednesday, and Thursday, highlighting a **strong customer preference for weekend visits**.
+    - `Peak Hours`: Occur between **8 AM and 11 AM**, driven by **commuter traffic and early coffee seekers**.
+    - `Sales Decline`: Sales decline sharply after 11 AM but remain steady through 8 PM.
+    - `Evening Sales Drop`: Sales drop significantly after 8 PM, likely due to **reduced interest in hot beverages and customers exploring other dining options**.
 
   
 ![hkhourlydailytrans](https://github.com/user-attachments/assets/6ab3e4d7-6b3b-42c1-9671-cfa579de1702)
@@ -134,16 +134,17 @@ ${\color{red}\text{Total number of transactions that occurred between 7AM and 8A
 
 
 - **${\color{brown}\text{Product Performance Insights}}$**:
-  ![hkpopular](https://github.com/user-attachments/assets/6af623fe-5bec-427b-a476-8d950e01669f)
-  ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
-
-
+ 
     - `High-Caffeine Preference`: Customers tend to prefer high-caffeine-content espresso-based beverages like Barista Espresso.
     - `Moderate-Caffeine Preference`: There is a significant preference for moderate-caffeine beverages like Brewed Chai Tea.
     - `Bakery Pairing`: The popularity of bakery items, especially scones, shows that customers like to pair their beverages with baked goods.
     - `Non-Caffeinated Options`: Hot chocolate’s popularity indicates that customers also prefer non-caffeinated options.
     - `Syrup Flavours`: More customers tend to prefer regular syrup flavours over sugar-free ones. 
     - `Take-Home Products`: Customers show less interest in take-home products like coffee beans, loose tea, packaged chocolate, and branded items.
+
+ ![hkpopular](https://github.com/user-attachments/assets/6af623fe-5bec-427b-a476-8d950e01669f)
+  ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
+
 
 ---
 
