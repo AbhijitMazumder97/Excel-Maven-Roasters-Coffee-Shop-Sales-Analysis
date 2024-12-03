@@ -224,7 +224,12 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 | **Average Decrease Post 11 AM** | 51.54%                                       | 29.24%                                     | 60.52%                                     |
 
 
-**${\color{red}\text{Note:}}$**
+**${\color{red}\text{Note:
+"Average Transactions Before 11 AM" is the average number of the transactions occuring every hour before 11 AM.}}$**
+**${\color{red}\text{Similarly, "Average Transactions After 11 AM" is the average number of the transactions occuring every hour after 11 AM.}}$**
+**$${\color{red} \text{Average Decrease Post 11 AM} = \left( \frac{\text{Average Transactions Before 11 AM} - \text{Average Transactions After 11 AM}}{\text{Average Transactions Before 11 AM}} \right) \times 100 }$$**
+
+
 
 **${\color{brown}\text{Key Insights:}}$**
   - `February Drop`: Astoria showed the maximum sales decline, as **residential customers prioritized essential needs over discretionary items** due to post-holiday fatigue and colder weather.
@@ -233,44 +238,49 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
   - `Evening Activity`: Astoria and Hell’s Kitchen maintain **steady evening sales until 8 PM**, unlike Lower Manhattan, where **sales drop significantly after 4 PM**.
   - `Weekend Activity`: **Weekends see lower activity overall**, with Saturdays least active in Hell’s Kitchen and Astoria, and Sundays least active in Lower Manhattan.
 
-    
-  
+
 ---
 
 ## **Recommendations**
 
 - **${\color{brown}\text{Address February Decline:}}$**
-    - **Leverage Valentine's Week**: Launch **Valentine’s-themed** beverages, **limited-edition** branded chocolates, bakery items and **Valentine's-themed** merchandise to boost sales.
+    - Leverage **Valentine's Week** and launch **special Valentine’s-themed** beverages, **limited-edition** branded chocolates, bakery items and **Valentine's-themed** merchandise to boost sales.
 
-      ![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
+![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
+**${\color{brown}\text{Fig: Red Velvet Latte}}$**
    
-    - Offer **limited time offer discounts** on coffee beans and tea leaves encouraging customers especially in residential areas to enjoy their coffee/tea from the comfort of their home.
-    - Offer **loyalty options** for instore shopping during einter months like February.
+    - Offer **limited time offer discounts** on **coffee beans and tea leaves** encouraging customers especially in residential areas to enjoy their coffee/tea from the comfort of their home.
+    - Offer **loyalty options** for instore shopping during the winter months like February.
 
       
 - **${\color{brown}\text{Events and Workshops:}}$**
     - **Host coffee-tea workshops** to boost brand engagement and coffee-bean/Tea leaves sales.
     - **Offer loyalty rewards** for workshop referrals.
- 
-      ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
 
-      Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
+![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
 
+Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
+**${\color{brown}\text{Fig: Coffee workshop}}$**
    
  
+
 - **${\color{brown}\text{Expand Menu:}}$**
     - Introduce grab-and-go customizable **“all-day sandwiches” and “lunch wraps”** to boost sales, especially post-11am.
     - **Add healthy options** like fresh salads and soup to your lunch and dinner menu.
-    - **Add non-caffeinated beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
+    - **Add non-caffeinated iced beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
       
 - **${\color{brown}\text{Seasonal Menu:}}$**
     - Introduce a rotating seasonal menu and promote **limited edition iced beverages and summer special snacks** during the summer.
 
-        ![pexels-cottonbro-4790062](https://github.com/user-attachments/assets/1fe1ed2f-731f-47e4-8a5b-473b55eb2d35)
-        Photo by cottonbro studio: https://www.pexels.com/photo/ice-cream-in-clear-drinking-glass-4790062/
+  ![pexels-cottonbro-4790062](https://github.com/user-attachments/assets/1fe1ed2f-731f-47e4-8a5b-473b55eb2d35)
+
+  Photo by cottonbro studio: https://www.pexels.com/photo/ice-cream-in-clear-drinking-glass-4790062/
+     **${\color{brown}\text{Fig: Iced Summer Beverages}}$**
       
     - Roll out festive drinks like ***Pumpkin Spice Latte*** during the fall and ***Peppermint Mocha*** during the holidays.
+
 ![holiday and fall](https://github.com/user-attachments/assets/5fc09dc0-be19-455d-9d79-79fea5cea4e2)
+**${\color{brown}\text{Fig: Peppermint Mocha (Right) and Pumpkin Spice Latte (Left)}}$**
 
 
 - **${\color{brown}\text{Weekend Offers:}}$**
@@ -283,16 +293,27 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
     - Offer affordable daily-use items like **tote bags, reusable coffee sleeves, stickers, and notepads**.
-      ![coffee cup sleeve](https://github.com/user-attachments/assets/a90cfa63-412c-4d28-995e-fc8d5ebf9f62)
-      **${\color{brown}\text{Fig: Reusable Coffee cup sleeves}}$**
-      ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
-      **${\color{brown}\text{Fig: Tote bags}}$**
+      
+![coffee cup sleeve](https://github.com/user-attachments/assets/a90cfa63-412c-4d28-995e-fc8d5ebf9f62)
+**${\color{brown}\text{Fig: Reusable Coffee cup sleeves}}$**
+      
+![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
+**${\color{brown}\text{Fig: Tote bags}}$**
+      
     - **Introduce festive/limited edition local-themed mugs, t-shirts or hoodies** to build brand loyalty.
+      
 ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
+**${\color{brown}\text{Fig: Astoria themed Hellgate Bridge Hoodie}}$**
 
 
 - **${\color{brown}\text{Gift-Chocolates:}}$**
+  
     - Market chocolates as **gift items** by improving packaging (e.g., gift boxes, ribbons).
+      
+![19897962_fpx](https://github.com/user-attachments/assets/aa431ce0-a067-41db-9da7-00988ad1e1ad)
+
+**${\color{brown}\text{Fig: Chocolate Gift box}}$**
+
     - Promote **seasonal offerings** (e.g., holiday-themed chocolates).
     - Conduct **taste events and surveys** to understand customer preferences.
 
