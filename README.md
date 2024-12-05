@@ -10,8 +10,7 @@
 - **Develop** actionable strategies to improve sales and customer satisfaction.
 
 ### Outcome
-The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. Location-specific dashboard visuals are pasted below for refference:
-
+The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. A short video clip of the dashboard visual is attached below for refference:
 
 https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 
@@ -19,11 +18,11 @@ https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 ## Key Highlights
 
 - **${\color{brown}\text{Revenue Growth}}$**
-    - Consistent upward trend across all locations, with significant growth in ***March*** and ***May***.
-    - A decline in sales was noticed in ***February***.
+    - Consistent increasing trend across all locations, with significant growth in ***March*** and ***May***.
+    - A decline in sales in ***February***.
   
 - **${\color{brown}\text{Peak Hours and Days}}$**
-Transactions peak during morning hours **(especialy between 8–11 AM) across all locations**, with notable differences in the busiest days:
+Transactions peak during morning hours **(especialy between 8–11 AM) across all locations** due to **high commuter activity**, with notable differences in the busiest days:
 
     - **Hell’s Kitchen**: ***Friday*** sees the highest customer activity.
     - **Astoria**: ***Thursday*** is the most popular day.
@@ -31,7 +30,7 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
       
 - **${\color{brown}\text{Top Products}}$**
     - **Barista Espresso**: The top revenue generator across all locations, particularly popular in ***Hell’s Kitchen*** (revenue collected: ***$ 32,420.20***) and ***Lower Manhattan*** (revenue collected: ***$ 31,051.00***).
-    - **Brewed Chai Tea**: Shows significant popularity in ***Astoria***, reflecting customer preference for moderate-caffeine options in that area.
+    - **Brewed Chai Tea**: Shows significant popularity in ***Astoria***, reflecting customer preference for **moderate-caffeine options** in that area.
 ---
 
 ## Table of Contents
@@ -91,7 +90,7 @@ ${\color{brown}\text{Fig.: Hell's Kitchen Revenue Trend}}$
 ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 
 
-- **February** saw a decline either due to post-holiday fatigue or fewer weekdays.
+- **February** saw a decline due to post-holiday fatigue or cold weather.
 - Strong revenue growth from **March to May (maximum growth in May)** reflects high spring caffeine demand and increased customer traffic.
 - Minimal growth in **June** suggests stabilization, highlighting the need for targeted summer promotions.
 
