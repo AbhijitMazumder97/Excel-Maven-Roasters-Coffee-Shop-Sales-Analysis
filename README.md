@@ -253,10 +253,11 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 **${\color{brown}\text{Fig: Red Velvet Latte}}$**
       
 
-- **${\color{brown}\text{Events and Workshops:}}$**
-    - **Host coffee-tea workshops** to boost brand engagement and coffee-bean/Tea leaves sales.
-    - **Offer loyalty rewards** for workshop referrals.
-
+- **${\color{brown}\text{ Weekend Workshops and special offers:}}$**
+    - **Host weekend coffee-tea workshops** to educate customers and boost coffee-bean and Tea leaves sales.
+    - Introduce **“happy family combo”** on weekends to attract tourists and families.
+    - Offer **loyalty points** for **word-of-mouth referrals** to friends.
+      
 ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
 
 Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
@@ -274,7 +275,6 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
 ![4459682](https://github.com/user-attachments/assets/64df472b-fd86-4488-9dd7-c09208d89dd3)
 **${\color{brown}\text{Fig: Vanilla Milkshake}}$**
       
-- **${\color{brown}\text{Seasonal Menu:}}$**
     - Introduce a rotating seasonal menu and promote **limited edition iced beverages and summer special snacks** during the summer.
 
   ![pexels-cottonbro-4790062](https://github.com/user-attachments/assets/1fe1ed2f-731f-47e4-8a5b-473b55eb2d35)
@@ -283,34 +283,27 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
      **${\color{brown}\text{Fig: Iced Summer Beverages}}$**
       
     - Roll out festive drinks like ***Pumpkin Spice Latte*** during the fall and ***Peppermint Mocha*** during the holidays.
-
 ![holiday and fall](https://github.com/user-attachments/assets/5fc09dc0-be19-455d-9d79-79fea5cea4e2)
 **${\color{brown}\text{Fig: Peppermint Mocha (Right) and Pumpkin Spice Latte (Left)}}$**
 
-
-- **${\color{brown}\text{Weekend Offers:}}$**
-    - Introduce **“happy family combo”** on weekends to attract tourists and families.
-    - Offer **loyalty points** for **word-of-mouth referrals** to friends.
-
-- **${\color{brown}\text{Customer Surveys:}}$** Conduct surveys regularly to understand **customer preferences** and modify the menu accordingly.
-
-- **${\color{brown}\text{Leverage Delivery Services:}}$** **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
+    - **Conduct surveys** regularly to understand **customer preferences** and modify the menu accordingly.
+    - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
     - Offer affordable daily-use items like **tote bags, reusable coffee sleeves, stickers, and notepads**.
     - Introduce **festive/limited edition local-themed mugs, t-shirts or hoodies** to build brand loyalty.
       
-![coffee cup sleeve](https://github.com/user-attachments/assets/a90cfa63-412c-4d28-995e-fc8d5ebf9f62)
+    ![coffee cup sleeve](https://github.com/user-attachments/assets/a90cfa63-412c-4d28-995e-fc8d5ebf9f62)
 
-**${\color{brown}\text{Fig: Reusable Coffee cup sleeves}}$**
+    **${\color{brown}\text{Fig: Reusable Coffee cup sleeves}}$**
       
-![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
+    ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
 
-**${\color{brown}\text{Fig: Tote bags}}$**
+    **${\color{brown}\text{Fig: Tote bags}}$**
       
-![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
+    ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
 
-**${\color{brown}\text{Fig: Astoria themed Hellgate Bridge Hoodie}}$**
+    **${\color{brown}\text{Fig: Astoria themed Hellgate Bridge Hoodie}}$**
 
 
 - **${\color{brown}\text{Gift-Chocolates:}}$**
@@ -319,24 +312,20 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
     - Promote **seasonal offerings** (e.g., holiday-themed chocolates).
     - Conduct **taste events and surveys** to understand customer preferences.
       
-![19897962_fpx](https://github.com/user-attachments/assets/aa431ce0-a067-41db-9da7-00988ad1e1ad)
+    ![19897962_fpx](https://github.com/user-attachments/assets/aa431ce0-a067-41db-9da7-00988ad1e1ad)
 
-**${\color{brown}\text{Fig: Chocolate Gift box}}$**
-
-   
-
-
-- **${\color{brown}\text{App and social media:}}$**
-    - **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
-    - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
-    -  Online campaign ads on social media to promote less popular products.
-
-- **${\color{brown}\text{Closing Time:}}$**
+    **${\color{brown}\text{Fig: Chocolate Gift box}}$**
+    
+- **${\color{brown}\text{Closing Time and operational efficiency:}}$**
     - **Lower Manhattan**:
         - **Close early** due to minimal foot traffic **after 7pm**.
         - Focus on **quick service, lunch, and delivery options** for working professionals.
         - Conduct **surveys** to understand customer needs before extending hours past 7pm.
     - **Maintain the same business hours** in Astoria and Hell’s Kitchen.
+    - **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
+    - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
+
+
 
 ---
 
