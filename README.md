@@ -70,6 +70,8 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
   - Clean and ready for analysis.
 ---
 
+
+
 ## Analysis Questions
 1. How have sales trended over time?
 2. Which days and hours drive the most transactions?
@@ -115,11 +117,11 @@ ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 ${\color{brown}\text{Fig.: Hell's Kitchen daily and hourly transactions}}$
 
 
-  
 
+> [!Note]
+> ${\color{#051094}\text{Each column in "Transactions by hour" visual represents an entire hour duration. Eg. 7 means between 7AM and 8AM.}}$
+${\color{#051094}\text{Total number of transactions that occurred between 7AM and 8AM from January 2023 to June 2023 was 3455 in Hell's Kitchen.}}$
 
-${\color{red}\text{Note: Each column in "Transactions by hour" visual represents an entire hour duration. Eg. 7 means between 7AM and 8AM.}}$
-${\color{red}\text{Total number of transactions that occurred between 7AM and 8AM from January 2023 to June 2023 was 3455 in Hell's Kitchen.}}$
 
 
 - **${\color{brown}\text{Product Performance Insights:}}$**
@@ -223,10 +225,11 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 | **Average Decrease Post 11 AM** | 51.54%                                       | 29.24%                                     | 60.52%                                     |
 
 
-**${\color{red}\text{Note:
+> [!Note]
+> **${\color{#051094}\text{
 "Average Transactions Before 11 AM" is the average number of the transactions occuring every hour before 11 AM.}}$**
-**${\color{red}\text{Similarly, "Average Transactions After 11 AM" is the average number of the transactions occuring every hour after 11 AM.}}$**
-**$${\color{red} \text{Average Decrease Post 11 AM} = \left( \frac{\text{Average Transactions Before 11 AM} - \text{Average Transactions After 11 AM}}{\text{Average Transactions Before 11 AM}} \right) \times 100 }$$**
+**${\color{#051094}\text{Similarly, "Average Transactions After 11 AM" is the average number of the transactions occuring every hour after 11 AM.}}$**
+**$${\color{#051094} \text{Average Decrease Post 11 AM} = \left( \frac{\text{Average Transactions Before 11 AM} - \text{Average Transactions After 11 AM}}{\text{Average Transactions Before 11 AM}} \right) \times 100 }$$**
 
 
 
@@ -242,15 +245,17 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 ## **Recommendations**
 
-- **${\color{brown}\text{Address February Decline:}}$**
+- **${\color{brown}\text{Address February Decline:}}$** Introduce Valentine’s week specials.
+    - `Limited Edition Branded Items`:
+        - **Valentine's themed T-shirt:** $20 each.
+        - **Beverage Sleeves (neoprene sleeves):** $12 each.
+    - `Valentine’s Special Beverages`:
+        - **Strawberry Mocha Latte:** A blend of strawberry syrup, chocolate, and espresso topped with whipped cream and heart sprinkles. $8 each.
+        - **Raspberry White Chocolate Cappuccino:** Creamy white chocolate and espresso infused with raspberry flavor.$9 each.
+
   
-    - Leverage **Valentine's Week** and launch **special Valentine’s-themed** beverages, **limited-edition** branded chocolates, bakery items and **Valentine's-themed** merchandise to boost sales.
-    - Offer **limited time offer discounts** on **coffee beans and tea leaves** encouraging customers especially in residential areas to enjoy their coffee/tea from the comfort of their home.
-    - Offer **loyalty options** for instore shopping during the winter months like February.
+   
 
-![Red-velvet-latte-2](https://github.com/user-attachments/assets/83d30269-a1af-46ac-b376-c026cf050893)
-
-**${\color{brown}\text{Fig: Red Velvet Latte}}$**
       
 
 - **${\color{brown}\text{ Weekend Workshops and special offers:}}$**
