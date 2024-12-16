@@ -254,73 +254,34 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
         - **Raspberry White Chocolate Cappuccino:** Creamy white chocolate and espresso infused with raspberry flavor.$9 each.
 
   
-   
-
-      
 
 - **${\color{brown}\text{ Weekend Workshops and special offers:}}$**
-    - Offer **group discounts** to participants who register with at least three friends or more.
+    - Start Weekend Coffee/tea workshops to promote your coffee beans and tea leaves. Offer **group discounts** to participants who register with at least three friends or more.
     - Provide **loyalty rewards** for word-of-mouth referrals and repeated visits.
     - Introduce **special bundle offers** including coffee beans and tea leaves at a discounted rate for all participants.
 
       
-![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
+    ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
 
-Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
-**${\color{brown}\text{Fig: Coffee workshop}}$**
+    Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
+
+  **${\color{brown}\text{Fig: Coffee workshop}}$**
    
+
+
+
  
 
-- **${\color{brown}\text{Expand Menu:}}$**
-    - Introduce grab-and-go customizable **all-day sandwiches and lunch wraps** to boost sales, especially post-11am.
-![Grilled_Chicken](https://github.com/user-attachments/assets/bc5c5f28-2fa1-417e-97dd-abcb8d18b7df)
-**${\color{brown}\text{Fig: Grilled chicken sandwich paired with iced Tea}}$**
+- **${\color{brown}\text{Expand Menu to mitigate post 11 AM sales drop:}}$**
 
-    - Add **healthy options** like fresh salads and soup to your lunch and dinner menu.
-    - **Add non-caffeinated iced beverages** (smoothies, milkshakes, fruit juices, or flavored water) to attract families and children.
-![4459682](https://github.com/user-attachments/assets/64df472b-fd86-4488-9dd7-c09208d89dd3)
-**${\color{brown}\text{Fig: Vanilla Milkshake}}$**
-      
-    - Introduce a rotating seasonal menu and promote **limited edition iced beverages and summer special snacks** during the summer.
+    1. Introduce **cold beverage options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
+    2. Introduce **lunch combo under $15**:
 
-  ![pexels-cottonbro-4790062](https://github.com/user-attachments/assets/1fe1ed2f-731f-47e4-8a5b-473b55eb2d35)
+       a) **Customizable sandwich** (veg/non-veg) 
 
-  Photo by cottonbro studio: https://www.pexels.com/photo/ice-cream-in-clear-drinking-glass-4790062/
-     **${\color{brown}\text{Fig: Iced Summer Beverages}}$**
-      
-    - Roll out festive drinks like ***Pumpkin Spice Latte*** during the fall and ***Peppermint Mocha*** during the holidays.
-![holiday and fall](https://github.com/user-attachments/assets/5fc09dc0-be19-455d-9d79-79fea5cea4e2)
-**${\color{brown}\text{Fig: Peppermint Mocha (Right) and Pumpkin Spice Latte (Left)}}$**
+       b) Any **beverage** of your choice (hot/cold)
 
-    - **Conduct surveys** regularly to understand **customer preferences** and modify the menu accordingly.
-    - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
-
-- **${\color{brown}\text{Expand Merchandise:}}$**
-    - Offer affordable daily-use items like **tote bags, reusable coffee sleeves, stickers, and notepads**.
-    - Introduce **festive/limited edition local-themed mugs, t-shirts or hoodies** to build brand loyalty.
-      
-    ![coffee cup sleeve](https://github.com/user-attachments/assets/a90cfa63-412c-4d28-995e-fc8d5ebf9f62)
-
-    **${\color{brown}\text{Fig: Reusable Coffee cup sleeves}}$**
-      
-    ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
-
-    **${\color{brown}\text{Fig: Tote bags}}$**
-      
-    ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
-
-    **${\color{brown}\text{Fig: Astoria themed Hellgate Bridge Hoodie}}$**
-
-
-- **${\color{brown}\text{Gift-Chocolates:}}$**
-  
-    - Market chocolates as **gift items** by improving packaging (e.g., gift boxes, ribbons).
-    - Promote **seasonal offerings** (e.g., holiday-themed chocolates).
-    - Conduct **taste events and surveys** to understand customer preferences.
-      
-    ![19897962_fpx](https://github.com/user-attachments/assets/aa431ce0-a067-41db-9da7-00988ad1e1ad)
-
-    **${\color{brown}\text{Fig: Chocolate Gift box}}$**
+    3.  **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
     
 - **${\color{brown}\text{Closing Time and operational efficiency:}}$**
     - **Lower Manhattan**:
@@ -331,7 +292,17 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
     - **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
     - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
 
+- **${\color{brown}\text{Expand Merchandise:}}$**
+    - Offer affordable daily-use items like **tote bags, and notepads**.
+    - Partner with local artists and introduce local themed T-shirts, mugs and hoodies.
+      
+    ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
 
+    **${\color{brown}\text{Fig: Tote bags}}$**
+      
+    ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
+
+    **${\color{brown}\text{Fig: Astoria themed Hellgate Bridge Hoodie}}$**
 
 ---
 
