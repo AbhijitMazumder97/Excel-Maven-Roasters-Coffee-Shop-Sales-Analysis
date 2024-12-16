@@ -10,7 +10,7 @@
 - **Develop** actionable strategies to improve sales and customer satisfaction.
 
 ### Outcome
-The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. A short video clip of the dashboard visual is attached below for refference:
+The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. A short video clip of the dashboard visual is attached below for reference:
 
 https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 
