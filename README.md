@@ -259,9 +259,10 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
       
 
 - **${\color{brown}\text{ Weekend Workshops and special offers:}}$**
-    - **Host weekend coffee-tea workshops** to educate customers and boost coffee-bean and Tea leaves sales.
-    - Introduce **“happy family combo”** on weekends to attract tourists and families.
-    - Offer **loyalty points** for **word-of-mouth referrals** to friends.
+    - Offer **group discounts** to participants who register with at least three friends or more.
+    - Provide **loyalty rewards** for word-of-mouth referrals and repeated visits.
+    - Introduce **special bundle offers** including coffee beans and tea leaves at a discounted rate for all participants.
+
       
 ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
 
