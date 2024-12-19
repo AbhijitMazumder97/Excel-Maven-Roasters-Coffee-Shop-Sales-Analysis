@@ -245,13 +245,17 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 ## **Recommendations**
 
-- **${\color{brown}\text{Address February Decline:}}$** Introduce Valentine’s week specials.
+- **${\color{brown}\text{Address February Decline:}}$** Observe a **Valentine’s Special Week** to promote **limited-edition Valentine’s-themed branded items** and **special beverages**.
     - `Limited Edition Branded Items`:
         - **Valentine's themed T-shirt:** $20 each.
         - **Beverage Sleeves (neoprene sleeves):** $12 each.
     - `Valentine’s Special Beverages`:
-        - **Strawberry Mocha Latte:** A blend of strawberry syrup, chocolate, and espresso topped with whipped cream and heart sprinkles. $8 each.
-        - **Raspberry White Chocolate Cappuccino:** Creamy white chocolate and espresso infused with raspberry flavor.$9 each.
+        - **Chocolate Covered Strawberry Mocha:** $8 each.
+          ![chocolate-covered-strawberry-mocha](https://github.com/user-attachments/assets/c7f91357-d303-4acd-9f58-d4fff366cb1d)
+
+        - **Raspberry White Chocolate Cappuccino:** $9 each.
+          ![new1020-white-chocolate-raspberry-cappuccino-1020](https://github.com/user-attachments/assets/cff6ed68-bb15-4ac8-a7f9-726a65261028)
+
 
   
 
@@ -259,6 +263,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     - Start Weekend Coffee/tea workshops to promote your coffee beans and tea leaves. Offer **group discounts** to participants who register with at least three friends or more.
     - Provide **loyalty rewards** for word-of-mouth referrals and repeated visits.
     - Introduce **special bundle offers** including coffee beans and tea leaves at a discounted rate for all participants.
+    - Promote your coffee beans and tea leaves through **online campaigns** and offer **special discounts** especially during the **winter season**. Provide **doorstep delivery services**, allowing customers to enjoy their favorite beverages from the **comfort of their homes**.
 
       
     ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
@@ -293,7 +298,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
-    - Offer affordable daily-use items like **tote bags, and notepads**.
+    - Launch affordable daily-use items like **tote bags, and notepads**.
     - Partner with local artists and introduce local themed T-shirts, mugs and hoodies.
       
     ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
@@ -318,7 +323,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 ---
 
 ## Conclusion
-This analysis provides valuable insights into customer behavior and operational performance at Maven Roasters. By implementing the recommendations, the company can increase revenue, enhance customer satisfaction, and improve operational efficiency.
+This analysis provides valuable insights into **customer behavior** at Maven Roasters. By implementing the recommendations, the Maven Roasters are expected to achieve an **18% increase** in February revenue, an **19% improvement** in post-11 AM transactions, a **21.5% growth** in coffee bean sales, and a **10.5%** rise in loose tea sales. Additionally, operational efficiency is projected to **improve by 8.5%**, driving overall sales growth and customer engagement.
 
 
 
