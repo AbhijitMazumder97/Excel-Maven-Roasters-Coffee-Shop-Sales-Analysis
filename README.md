@@ -252,6 +252,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
         - **Beverage Sleeves (neoprene sleeves):** $12 each.
           
+          
 
 
     - `Valentine’s Special Beverages`:
