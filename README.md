@@ -251,7 +251,9 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (](https://github.com/user-attachments/assets/7d04653e-aacc-4d72-b30d-cb522e21563a)
 
         - **Beverage Sleeves (neoprene sleeves):** $12 each.
+          ![new maven roasters coffee cup sleeve](https://github.com/user-attachments/assets/5d549a56-949d-4e70-922f-2c3c64bbecbf)
           
+
           
 
 
