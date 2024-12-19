@@ -322,7 +322,8 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 ---
 
 ## Conclusion
-This analysis provides valuable insights into **customer behavior** at Maven Roasters. By implementing the recommendations, the Maven Roasters are expected to achieve an **18% increase** in February revenue, an **19% improvement** in post-11 AM transactions, a **21.5% growth** in coffee bean sales, and a **10.5%** rise in loose tea sales. Additionally, operational efficiency is projected to **improve by 8.5%**, driving overall sales growth and customer engagement.
+This analysis provides valuable insights into **customer behavior** at Maven Roasters. By implementing the recommendations, the Maven Roasters are expected to achieve an **18% increase** in February revenue, an **19% improvement** in post-11 AM transactions, a **21.5% growth** in coffee bean sales, and a **10.5%** rise in loose tea sales. Additionally, operational efficiency is projected to **improve by 8.5%**, driving overall sales growth and customer engagement.[recommendation impact.pdf](https://github.com/user-attachments/files/18202772/recommendation.impact.pdf)
+
 
 
 
