@@ -244,7 +244,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 ## **Recommendations**
 
-- **${\color{brown}\text{Address February Decline:}}$** Observe a **Valentine’s Special Week** to promote **limited-edition Valentine’s-themed branded items** and **special beverages**.
+- **${\color{brown}\text{Address February Decline:}}$** Observe a **Valentine’s Special Week** and launch **limited-edition Valentine’s-themed branded items** and **special beverages**.
     - `Limited Edition Branded Items`:
         - **Valentine's themed T-shirt:** $20 each.
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (1)](https://github.com/user-attachments/assets/90bfa969-1c2f-4174-b86c-49caaf9b7c02)
