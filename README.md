@@ -226,8 +226,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 
 > [!Note]
-> **${\color{#051094}\text{
-"Average Transactions Before 11 AM" is the average number of the transactions occuring every hour before 11 AM.}}$**
+> **${\color{#051094}\text{"Average Transactions Before 11 AM" is the average number of the transactions occuring every hour before 11 AM.}}$**
 **${\color{#051094}\text{Similarly, "Average Transactions After 11 AM" is the average number of the transactions occuring every hour after 11 AM.}}$**
 **$${\color{#051094} \text{Average Decrease Post 11 AM} = \left( \frac{\text{Average Transactions Before 11 AM} - \text{Average Transactions After 11 AM}}{\text{Average Transactions Before 11 AM}} \right) \times 100 }$$**
 
@@ -248,7 +247,13 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 - **${\color{brown}\text{Address February Decline:}}$** Observe a **Valentine’s Special Week** to promote **limited-edition Valentine’s-themed branded items** and **special beverages**.
     - `Limited Edition Branded Items`:
         - **Valentine's themed T-shirt:** $20 each.
+          ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (1)](https://github.com/user-attachments/assets/90bfa969-1c2f-4174-b86c-49caaf9b7c02)
+          ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (](https://github.com/user-attachments/assets/7d04653e-aacc-4d72-b30d-cb522e21563a)
+
         - **Beverage Sleeves (neoprene sleeves):** $12 each.
+          
+
+
     - `Valentine’s Special Beverages`:
         - **Chocolate Covered Strawberry Mocha:** $8 each.
           ![chocolate-covered-strawberry-mocha](https://github.com/user-attachments/assets/c7f91357-d303-4acd-9f58-d4fff366cb1d)
@@ -260,22 +265,17 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
   
 
 - **${\color{brown}\text{ Weekend Workshops and special offers:}}$**
-    - Start Weekend Coffee/tea workshops to promote your coffee beans and tea leaves. Offer **group discounts** to participants who register with at least three friends or more.
+    - Organize **paid weekend workshops** ($25-$30 per head) to promote your coffee beans/tea leaves and **educate customers about their sourcing**, and the **methods involved in preparation** of various beverages.
+    - Offer **group discounts** to participants who register with at least three friends or more.
     - Provide **loyalty rewards** for word-of-mouth referrals and repeated visits.
     - Introduce **special bundle offers** including coffee beans and tea leaves at a discounted rate for all participants.
-    - Promote your coffee beans and tea leaves through **online campaigns** and offer **special discounts** especially during the **winter season**. Provide **doorstep delivery services**, allowing customers to enjoy their favorite beverages from the **comfort of their homes**.
+    - Promote your coffee beans and tea leaves through **online campaigns** and offer **winter season discounts**. Provide **doorstep delivery services**, allowing customers to enjoy their favorite beverages from the **comfort of their homes**.
 
       
     ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
 
     Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
-  **${\color{brown}\text{Fig: Coffee workshop}}$**
-   
-
-
-
- 
 
 - **${\color{brown}\text{Expand Menu to mitigate post 11 AM sales drop:}}$**
 
@@ -298,16 +298,12 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
-    - Launch affordable daily-use items like **tote bags, and notepads**.
-    - Partner with local artists and introduce local themed T-shirts, mugs and hoodies.
+    - Launch **affordable daily-use items** like tote bags, and notepads.
+      ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
       
-    ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
+    - Partner with **local artists** and introduce **local themed** T-shirts, mugs and hoodies.
+       ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
 
-    **${\color{brown}\text{Fig: Tote bags}}$**
-      
-    ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
-
-    **${\color{brown}\text{Fig: Astoria themed Hellgate Bridge Hoodie}}$**
 
 ---
 
