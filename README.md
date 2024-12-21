@@ -15,7 +15,7 @@ The analysis resulted in a **dynamic Excel dashboard and actionable recommendati
 https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 
 
-## Key Highlights
+## Key Insights
 
 - **${\color{brown}\text{Revenue Growth}}$**
     - Consistent increasing trend across all locations, with significant growth in ***March*** and ***May***.
@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 - **${\color{brown}\text{Peak Hours and Days}}$**
 Transactions peak during morning hours **(especialy between 8–11 AM) across all locations** due to **high commuter activity**, with notable differences in the busiest days:
 
-    - **Hell’s Kitchen**: ***Friday*** sees the highest customer activity.
+    - **Hell’s Kitchen**: ***Friday*** sees the highest activity.
     - **Astoria**: ***Thursday*** is the most popular day.
     - **Lower Manhattan**: ***Monday*** leads in transactions.
       
