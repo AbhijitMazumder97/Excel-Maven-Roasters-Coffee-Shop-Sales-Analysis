@@ -24,9 +24,9 @@ https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 - **${\color{brown}\text{Peak Hours and Days}}$**
 Transactions peak during morning hours **(especialy between 8–11 AM) across all locations** due to **high commuter activity**, with notable differences in the busiest days:
 
-    - **Hell’s Kitchen**: ***Friday*** sees the highest activity.
-    - **Astoria**: ***Thursday*** is the most popular day.
-    - **Lower Manhattan**: ***Monday*** leads in transactions.
+    - `Hell’s Kitchen:` ***Friday*** sees the highest activity.
+    - `Astoria:` ***Thursday*** is the most popular day.
+    - `Lower Manhattan:` ***Monday*** leads in transactions.
       
 - **${\color{brown}\text{Top Products}}$**
     - **Barista Espresso**: The **top revenue generator** across all locations, particularly **popular** in ***Hell’s Kitchen*** (revenue collected: ***$ 32,420.20***) and ***Lower Manhattan*** (revenue collected: ***$ 31,051.00***).
@@ -43,8 +43,13 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
    - [Lower Manhattan](#lower-manhattan)
 5. [Comparative Summary](#comparative-summary)
 6. [Recommendations](#recommendations)
-7. [Technical Skills Used](#technical-skills-used)
-8. [Conclusion](#conclusion)
+   - [Valentine's Week Specials](valentines-week-specials)
+   - [Weekend Workshops](weekend-workshops)
+   - [Expand Menu](expand-menu)
+   - [Optimize Operational Efficiency](optimize-operational-efficiency)
+   - [Expand Merchandise](expand-merchandise)
+8. [Technical Skills Used](#technical-skills-used)
+9. [Conclusion](#conclusion)
 
 ---
 
@@ -247,7 +252,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 ## **Recommendations**
 
-- **${\color{brown}\text{Address February Decline:}}$** Observe a **Valentine’s Special Week** and launch **limited-edition Valentine’s-themed branded items** and **special beverages**.
+- **${\color{brown}\text{Valentine's Week Specials:}}$** Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
     - `Limited Edition Branded Items`:
         - **Valentine's themed T-shirt:** $20 each.
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (1)](https://github.com/user-attachments/assets/90bfa969-1c2f-4174-b86c-49caaf9b7c02)
@@ -270,12 +275,12 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
   
 
-- **${\color{brown}\text{ Weekend Workshops and special offers:}}$**
-    - Organize **paid weekend workshops** ($25-$30 per head) to **promote your coffee beans/tea leaves** and **educate customers about their sourcing**, and the **methods involved in preparation** of various beverages.
-    - Offer **group discounts** to participants who register with **at least three friends or more**.
-    - Provide **loyalty rewards** for word-of-mouth referrals and repeated participants.
-    - Introduce **special bundle offers** including coffee beans and tea leaves at a discounted rate for all participants.
-    - Promote your coffee beans and tea leaves through **online campaigns** and offer **winter season discounts**. Provide **doorstep delivery services**, allowing customers to enjoy their favorite beverages from the **comfort of their homes**.
+- **${\color{brown}\text{ Weekend Workshops:}}$** Start Weekend Workshops to boost the **Coffee Beans and Loose Tea sales**.
+    - Organize **paid weekend workshops ($25-$30 per head)** to **spread awareness** about sourcing of **Coffee Beans/Loose Tea** and their preparation methods.
+    - Offer **group discounts** for participants registering with three or more friends.
+    - Provide **loyalty rewards** for referrals and returning participants.
+    - Introduce **special bundle offers on coffee beans and tea leaves** for all participants.
+    - Conduct **online campaigns** for promotions and **special discounts** on online purchases during **winter season**.
 
       
     ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
@@ -283,24 +288,24 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
 
-- **${\color{brown}\text{Expand Menu to mitigate post 11 AM sales drop:}}$**
-    - Introduce **cold beverage options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
-    - Introduce **lunch combo under $15**:
+- **${\color{brown}\text{Expand Menu:}}$** Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
+    - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
+    - `Lunch Combo:` Introduce **lunch combo under $15**:
         - **Customizable sandwich** (veg/non-veg)
         - Any **beverage** of your choice (hot/cold)
-    - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
+    - `Food Delivery:` **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
     
 - **${\color{brown}\text{Optimize operational efficiency:}}$**
-    - Closing Time:
-        - Close early in Lower Manhattan due to minimal foot traffic after 7 pm.
-        - Conduct surveys to understand customer needs before extending hours past 7 pm.
-        - Maintain the same business hours in Astoria and Hell’s Kitchen.
-    - Streamlining Operations:
-        - Launch smartphone apps for pre-ordering and customizing food to reduce morning wait times.
-        - Ensure sufficient staff during busy morning hours.
-        - Assign specific staff for pre-orders during peak times and others for walk-in customers.
-        - Set up separate counters for pre-order and walk-in customers to reduce wait times.
-        - Allow customers to choose a pick-up time and send notifications when the order is ready to ensure freshness.
+    - `Closing Time:`
+        - **Close early in Lower Manhattan** due to **minimal foot traffic** after 7 pm.
+        - **Conduct surveys** to **understand customer needs** before extending hours past 7 pm.
+        - Maintain the **same business hours** in Astoria and Hell’s Kitchen.
+    - `Streamlining Operations:`
+        - Launch **smartphone apps** for **pre-ordering and customizing food** to reduce morning wait times.
+        - Ensure **sufficient staff members** during busy morning hours.
+        - Assign **specific staff for pre-orders** during **peak times** and **others for walk-in customers**.
+        - Set up **separate counters** for pre-order and walk-in customers to reduce wait times.
+        - Allow customers to choose a **pick-up time** and **send notifications** when the **order is ready to ensure freshness**.
 
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
