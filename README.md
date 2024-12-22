@@ -253,50 +253,41 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 ## **Recommendations**
 
 #### **Valentine's Week Specials**
-    Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
+Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
     - `Limited Edition Branded Items`:
         - **Valentine's themed T-shirt:** $20 each.
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (1)](https://github.com/user-attachments/assets/90bfa969-1c2f-4174-b86c-49caaf9b7c02)
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (](https://github.com/user-attachments/assets/7d04653e-aacc-4d72-b30d-cb522e21563a)
-
-        - **Beverage Sleeves (neoprene sleeves):** $12 each.
+          - **Beverage Sleeves (neoprene sleeves):** $12 each.
           ![new maven roasters coffee cup sleeve](https://github.com/user-attachments/assets/5d549a56-949d-4e70-922f-2c3c64bbecbf)
-          
-
-          
-
-
     - `Valentine’s Special Beverages`:
         - **Chocolate Covered Strawberry Mocha:** $8 each.
           ![chocolate-covered-strawberry-mocha](https://github.com/user-attachments/assets/c7f91357-d303-4acd-9f58-d4fff366cb1d)
-
         - **Raspberry White Chocolate Cappuccino:** $9 each.
           ![new1020-white-chocolate-raspberry-cappuccino-1020](https://github.com/user-attachments/assets/cff6ed68-bb15-4ac8-a7f9-726a65261028)
 
-
-  
-
 #### **Weekend Workshops**
-    Start Weekend Workshops to boost the **Coffee Beans and Loose Tea sales**.
+Start Weekend Workshops to boost the **Coffee Beans and Loose Tea sales**.
     - Organize **paid weekend workshops ($25-$30 per head)** to **spread awareness** about sourcing of **Coffee Beans/Loose Tea** and their preparation methods.
     - Offer **group discounts** for participants registering with three or more friends.
     - Provide **loyalty rewards** for referrals and returning participants.
     - Introduce **special bundle offers on coffee beans and tea leaves** for all participants.
     - Conduct **online campaigns** for promotions and **special discounts** on online purchases during **winter season**.
 
-      
-    ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
-
-    Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
+ ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
+Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
 
 #### **Expand Menu**
-      Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
-    - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
+Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
+    - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and other smoothies.
     - `Lunch Combo:` Introduce **lunch combo under $15**:
         - **Customizable sandwich** (veg/non-veg)
         - Any **beverage** of your choice (hot/cold)
     - `Food Delivery:` **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
+    ![pexels-felipe-vieira-651921657-20066369](https://github.com/user-attachments/assets/361d77e7-ba3c-4cd4-8bf6-cbc5d73c778a)
+    Photo by Felipe Vieira: https://www.pexels.com/photo/sandwich-and-beverage-20066369/
+
     
 #### **Optimize Operational Efficiency**
     - `Closing Time:`
