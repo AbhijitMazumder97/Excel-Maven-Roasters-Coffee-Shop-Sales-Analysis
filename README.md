@@ -10,7 +10,7 @@
 - **Develop** actionable strategies to improve sales and customer satisfaction.
 
 ### Outcome
-The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. A short video clip of the dashboard visual is attached below for reference:
+The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. A short video clip of the dashboard visual is attached below for reference. The original dashboard can be downloaded from **here.**
 
 https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 
@@ -112,7 +112,6 @@ ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 
 - **${\color{brown}\text{Daily and Hourly Insights:}}$**
 ![hkhourlydailytrans](https://github.com/user-attachments/assets/6ab3e4d7-6b3b-42c1-9671-cfa579de1702)
-${\color{brown}\text{Fig.: Hell's Kitchen daily and hourly transactions}}$
 
     - `High Traffic on Fridays`: Reflects **increased customer activity** aligning with **end-of-week routines**.
     - `Weekend Preference`: **Sunday outperforms** weekdays like Monday, Wednesday, and Thursday, highlighting a **strong customer preference for weekend visits**.
@@ -133,14 +132,14 @@ ${\color{#051094}\text{Total number of transactions that occurred between 7AM an
 
 - **${\color{brown}\text{Product Performance Insights:}}$**
 ![hkproductperformance](https://github.com/user-attachments/assets/438e8ffd-f70c-4d2c-90ff-ed99ec2a04d4)
-${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
+
 
     - `High-Caffeine Preference`: Customers tend to prefer **high-caffeine-content espresso-based beverages** like Barista Espresso.
     - `Moderate-Caffeine Preference`: There is a significant preference for **moderate-caffeine beverages** like Brewed Chai Tea.
     - `Bakery Pairing`: The popularity of bakery items, **especially scones**, shows that customers like to pair their beverages with baked goods.
     - `Non-Caffeinated Options`: **Hot chocolate’s** popularity indicates that customers also prefer **non-caffeinated options**.
     - `Syrup Flavours`: More customers tend to **prefer regular syrup flavours** over sugar-free ones. 
-    - `Take-Home Products and packaged items`: **Strong Preference for fresh products** as customers are **less interested** in take-home products and packaged items [like ***coffee beans, loose tea, packaged chocolate, and branded items***].
+    - `Take-Home Products and packaged items`: **Strong Preference for fresh products** as customers are **less interested** in take-home products and packaged items like ***coffee beans, loose tea, packaged chocolate, and branded items***.
 
 
 
@@ -159,7 +158,7 @@ ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
 - **${\color{brown}\text{Daily and Hourly Insights:}}$**
 
  ![ashourlydailytrans](https://github.com/user-attachments/assets/83d9525d-59e4-444f-a6f2-c2cf1ea74d73)
-${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
+
 
   - `Midweek Spike`: High Thursday transactions reflect a midweek spike in caffeine demand. **Increasing Mid-week caffeine** demand probably driven by **residents taking breaks** from their daily routine and **remote working professionals** combating **work fatigue**.
   - `Lower Saturday and Tuesday Visits`: **Less caffeine demand** on Tuesdays and Saturdays indicating customers are exploring other options like **Taco Tuesdays** or **Saturday-special Brunch-Dinner** options.
@@ -172,8 +171,7 @@ ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
   
 ![astoria_product_performance](https://github.com/user-attachments/assets/00699db5-7f4d-4dbb-a37d-4091b197ed0c)
 
-  ${\color{brown}\text{Fig.: Astoria product performance and revenue}}$
-
+ 
   - `Moderate-Caffeine Preference`: Customers **favor moderate-caffeine beverages like Brewed Chai Tea** over high-caffeine options like Barista Espresso.
   - `Non-Caffeinated Options`: The popularity of **hot chocolate** shows that **customers also enjoy non-caffeinated options**.
   - `Bakery Popularity`: **Scones are strongly preferred** among other bakery options like pastries and biscotti, **similar to the trend in Hell's Kitchen**.
@@ -192,7 +190,7 @@ ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
 
 - **${\color{brown}\text{Daily and Hourly Insights:}}$**
 ![lmdailyhourlytrans](https://github.com/user-attachments/assets/27c0e5fe-bd98-4d4d-b593-1ef8dedbf383)
-${\color{brown}\text{Fig.: Lower Manhattan daily and hourly transactions}}$
+
 
   - `Monday Visits`: **Most customers** visit on Mondays, likely for a **early-week caffeine boost or a quick grab on their way to work**.
   - `Midweek Spikes`: Midweek spikes in transactions, similar to the trend in Astoria, are probably due to **client meetings or professionals fighting work fatigue**.
@@ -204,7 +202,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan daily and hourly transactions}}$
 
 ![lmproductperformance](https://github.com/user-attachments/assets/fd696ddd-8522-4a66-96ed-4d20ff169d9b)
 
-${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
+
 
   - `Caffeine Preferences`: **Customers prefer high-to-moderate caffeine options** like Barista Espresso, Gourmet Brewed Coffee, and Brewed Chai Tea **probably to boost their productivity**. Black and herbal teas are also popular.
   - `Bakery Pairing`: **Scones** are a popular beverage pairing option(**similar to the trend in Astoria and Hell's Kitchen**).
@@ -254,7 +252,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 #### **Valentine's Week Specials**
 
-Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
+Launch **limited-edition Valentine’s-themed branded items** and **special beverages** during Valentine's Week to address February Decline.
 
 - `Limited Edition Branded Items`:
 
@@ -288,13 +286,13 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
 
 
 #### **Expand Menu**
-Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
+Add new **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
 
 - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and smoothies.
 
 - `Lunch Combo:` Introduce **lunch combo under $15**:
-        - **Customizable sandwich** (veg/non-veg)
-        - Any **beverage** of your choice (hot/cold)
+    - **Customizable sandwiches** with veg, non-veg and vegan options.
+    - Any **beverage** of choice (hot/cold)
           
 - `Food Delivery:` **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
 
@@ -351,7 +349,7 @@ Photo by Pavel Danilyuk: https://www.pexels.com/photo/a-woman-standing-behind-th
 ---
 
 ## Conclusion
-This analysis provides valuable insights into **customer behavior** at Maven Roasters. By implementing the recommendations, the Maven Roasters are expected to achieve an **18% increase** in February revenue, an **19% improvement** in post-11 AM transactions, a **21.5% growth** in coffee bean sales, and a **10.5%** rise in loose tea sales. Additionally, operational efficiency is projected to **improve by 8.5%**, driving overall sales growth and customer engagement.[recommendation impact.pdf](https://github.com/user-attachments/files/18202772/recommendation.impact.pdf)
+This analysis provides valuable insights into **customer behavior** at Maven Roasters. By implementing the recommendations, the Maven Roasters are expected to achieve an **18% increase** in February revenue, a **19% improvement** in post-11 AM transactions, a **21.5% growth** in coffee bean sales, and a **10.5%** rise in loose tea sales. Additionally, operational efficiency is projected to **improve by 8.5%**, driving overall sales growth and customer satisfaction.[recommendation impact.pdf](https://github.com/user-attachments/files/18202772/recommendation.impact.pdf)
 
 
 
