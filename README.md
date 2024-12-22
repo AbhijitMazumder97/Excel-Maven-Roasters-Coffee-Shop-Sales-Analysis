@@ -33,7 +33,7 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
     - **Brewed Chai Tea**: Shows **significant popularity** in ***Astoria***, reflecting customer preference for **moderate-caffeine options** in that area.
 ---
 
-## Table of Contents
+## Contents
 1. [Dataset Description](#dataset-description)
 2. [Analysis Questions](#analysis-questions)
 3. [Revenue Insights Across All Locations](#revenue-insights-across-all-locations)
