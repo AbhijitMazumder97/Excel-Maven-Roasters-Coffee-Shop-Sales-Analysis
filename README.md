@@ -10,7 +10,7 @@
 - **Develop** actionable strategies to improve sales and customer satisfaction.
 
 ### Outcome
-The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. A short video clip of the dashboard visual is attached below for reference. The original dashboard can be downloaded from **here.**
+The analysis resulted in a **dynamic Excel dashboard and actionable recommendations** to support franchise owners in strategic decision-making. A short video clip of the dashboard visual is attached below for reference. [View Excel Dashboard](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAbhijitMazumder97%2FExcel-Maven-Roasters-Coffee-Shop-Sales-Analysis%2Frefs%2Fheads%2Fmain%2FMAVEN%2520ANALYTICS%2520COFFEE%2520SHOP%2520SALES%2520GUIDED%2520PROJECT.xlsx&wdOrigin=BROWSELINK)
 
 https://github.com/user-attachments/assets/fe91cf09-af3a-4012-967e-3dfc53ce8d16
 
