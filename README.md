@@ -48,8 +48,8 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
    - [Expand Menu](#expand-menu)
    - [Optimize Operational Efficiency](#optimize-operational-efficiency)
    - [Expand Merchandise](#expand-merchandise)
-8. [Technical Skills Used](#technical-skills-used)
-9. [Conclusion](#conclusion)
+7. [Technical Skills Used](#technical-skills-used)
+8. [Conclusion](#conclusion)
 
 ---
 
