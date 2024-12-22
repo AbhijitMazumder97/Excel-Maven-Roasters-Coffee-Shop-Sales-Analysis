@@ -253,61 +253,88 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 ## **Recommendations**
 
 #### **Valentine's Week Specials**
+
 Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
-    - `Limited Edition Branded Items`:
-        - **Valentine's themed T-shirt:** $20 each.
+
+- `Limited Edition Branded Items`:
+
+  - **Valentine's themed T-shirt:** $20 each.
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (1)](https://github.com/user-attachments/assets/90bfa969-1c2f-4174-b86c-49caaf9b7c02)
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (](https://github.com/user-attachments/assets/7d04653e-aacc-4d72-b30d-cb522e21563a)
-          - **Beverage Sleeves (neoprene sleeves):** $12 each.
+
+  - **Beverage Sleeves (neoprene sleeves):** $12 each.
           ![new maven roasters coffee cup sleeve](https://github.com/user-attachments/assets/5d549a56-949d-4e70-922f-2c3c64bbecbf)
-    - `Valentine’s Special Beverages`:
+
+      - `Valentine’s Special Beverages`:
+
         - **Chocolate Covered Strawberry Mocha:** $8 each.
-          ![chocolate-covered-strawberry-mocha](https://github.com/user-attachments/assets/c7f91357-d303-4acd-9f58-d4fff366cb1d)
+              ![chocolate-covered-strawberry-mocha](https://github.com/user-attachments/assets/c7f91357-d303-4acd-9f58-d4fff366cb1d)
+
         - **Raspberry White Chocolate Cappuccino:** $9 each.
           ![new1020-white-chocolate-raspberry-cappuccino-1020](https://github.com/user-attachments/assets/cff6ed68-bb15-4ac8-a7f9-726a65261028)
 
 #### **Weekend Workshops**
 Start Weekend Workshops to boost the **Coffee Beans and Loose Tea sales**.
-    - Organize **paid weekend workshops ($25-$30 per head)** to **spread awareness** about sourcing of **Coffee Beans/Loose Tea** and their preparation methods.
-    - Offer **group discounts** for participants registering with three or more friends.
-    - Provide **loyalty rewards** for referrals and returning participants.
-    - Introduce **special bundle offers on coffee beans and tea leaves** for all participants.
-    - Conduct **online campaigns** for promotions and **special discounts** on online purchases during **winter season**.
 
- ![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
+- Organize **paid weekend workshops ($25-$30 per head)** to **spread awareness** about sourcing of **Coffee Beans/Loose Tea** and their preparation methods.
+- Offer **group discounts** for participants registering with three or more friends.
+- Provide **loyalty rewards** for referrals and returning participants.
+- Introduce **special bundle offers on coffee beans and tea leaves** for all participants.
+- Conduct **online campaigns** for promotions and **special discounts** on online purchases during **winter season**.
+
+![small_pexels-shkrabaanthony-7176003](https://github.com/user-attachments/assets/2111e282-f4f3-4d4d-8a72-bf126cec99d2)
+
 Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
 
 #### **Expand Menu**
 Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
-    - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and other smoothies.
-    - `Lunch Combo:` Introduce **lunch combo under $15**:
+
+- `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and smoothies.
+
+- `Lunch Combo:` Introduce **lunch combo under $15**:
         - **Customizable sandwich** (veg/non-veg)
         - Any **beverage** of your choice (hot/cold)
-    - `Food Delivery:` **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
-    ![pexels-felipe-vieira-651921657-20066369](https://github.com/user-attachments/assets/361d77e7-ba3c-4cd4-8bf6-cbc5d73c778a)
-    Photo by Felipe Vieira: https://www.pexels.com/photo/sandwich-and-beverage-20066369/
+          
+- `Food Delivery:` **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
+
+![pexels-felipe-vieira-651921657-20066369](https://github.com/user-attachments/assets/361d77e7-ba3c-4cd4-8bf6-cbc5d73c778a)
+
+Photo by Felipe Vieira: https://www.pexels.com/photo/sandwich-and-beverage-20066369/
 
     
 #### **Optimize Operational Efficiency**
-    - `Closing Time:`
-        - **Close early in Lower Manhattan** due to **minimal foot traffic** after 7 pm.
-        - **Conduct surveys** to **understand customer needs** before extending hours past 7 pm.
-        - Maintain the **same business hours** in Astoria and Hell’s Kitchen.
-    - `Streamlining Operations:`
-        - Launch **smartphone apps** for **pre-ordering and customizing food** to reduce morning wait times.
-        - Ensure **sufficient staff members** during busy morning hours.
-        - Assign **specific staff for pre-orders** during **peak times** and **others for walk-in customers**.
-        - Set up **separate counters** for pre-order and walk-in customers to reduce wait times.
-        - Allow customers to choose a **pick-up time** and **send notifications** when the **order is ready to ensure freshness**.
+    
+- `Closing Time:`
+    - **Close early in Lower Manhattan** due to **minimal foot traffic** after 7 pm.
+    - **Conduct surveys** to **understand customer needs** before extending hours past 7 pm.
+    - Maintain the **same business hours** in Astoria and Hell’s Kitchen.
+
+![pexels-timmossholder-28726700](https://github.com/user-attachments/assets/4ebaaf9e-6f07-481d-b7c0-ecde34fc7240)
+
+Photo by Tim Mossholder: https://www.pexels.com/photo/closed-sign-hanging-on-storefront-window-28726700/
+
+- `Streamlining Operations:`
+    - Launch **smartphone apps** for **pre-ordering and customizing food** to reduce morning wait times.
+    - Ensure **sufficient staff members** during busy morning hours.
+    - Assign **specific staff for pre-orders** during **peak times** and **others for walk-in customers**.
+    - Set up **separate counters** for pre-order and walk-in customers to reduce wait times.
+    - Allow customers to choose a **pick-up time** and **send notifications** when the **order is ready to ensure freshness**.
+
+![pexels-pavel-danilyuk-6612738](https://github.com/user-attachments/assets/8b7fbc28-c34f-4e6b-bc3a-1203fb93b025)
+
+Photo by Pavel Danilyuk: https://www.pexels.com/photo/a-woman-standing-behind-the-counter-of-a-coffee-shop-6612738/
 
 
-- #### **Expand Merchandise:**
-    - Launch **affordable daily-use items** like tote bags, and notepads.
-      ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
+#### **Expand Merchandise:**
+
+- Launch **affordable daily-use items** like tote bags, and notepads.
+
+![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
       
-    - Partner with **local artists** and introduce **local themed** T-shirts, mugs and hoodies.
-       ![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
+- Partner with **local artists** and introduce **local themed** T-shirts, mugs and hoodies.
+
+![local themed merchandise](https://github.com/user-attachments/assets/688e737a-2dc9-43cd-a203-6852fb00a3eb)
 
 
 ---
