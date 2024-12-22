@@ -29,8 +29,8 @@ Transactions peak during morning hours **(especialy between 8–11 AM) across al
     - **Lower Manhattan**: ***Monday*** leads in transactions.
       
 - **${\color{brown}\text{Top Products}}$**
-    - **Barista Espresso**: The top revenue generator across all locations, particularly popular in ***Hell’s Kitchen*** (revenue collected: ***$ 32,420.20***) and ***Lower Manhattan*** (revenue collected: ***$ 31,051.00***).
-    - **Brewed Chai Tea**: Shows significant popularity in ***Astoria***, reflecting customer preference for **moderate-caffeine options** in that area.
+    - **Barista Espresso**: The **top revenue generator** across all locations, particularly **popular** in ***Hell’s Kitchen*** (revenue collected: ***$ 32,420.20***) and ***Lower Manhattan*** (revenue collected: ***$ 31,051.00***).
+    - **Brewed Chai Tea**: Shows **significant popularity** in ***Astoria***, reflecting customer preference for **moderate-caffeine options** in that area.
 ---
 
 ## Table of Contents
@@ -102,40 +102,41 @@ ${\color{brown}\text{Fig.: Lower Manhattan Revenue Trend}}$
 
 - **${\color{brown}\text{Top Transaction Day:}}$** Friday (7,489 transactions)
 - **${\color{brown}\text{Top Transaction Hours:}}$** 8–11 AM
-- **${\color{brown}\text{Top Product:}}$** Barista Espresso ($32,420 revenue)
+- **${\color{brown}\text{High Revenue Generating Product:}}$** Barista Espresso ($32,420 revenue)
+- **${\color{brown}\text{Popular Product:}}$** Barista Espresso (6153 transactions)
 
 - **${\color{brown}\text{Daily and Hourly Insights:}}$**
-  
+![hkhourlydailytrans](https://github.com/user-attachments/assets/6ab3e4d7-6b3b-42c1-9671-cfa579de1702)
+${\color{brown}\text{Fig.: Hell's Kitchen daily and hourly transactions}}$
+
     - `High Traffic on Fridays`: Reflects **increased customer activity** aligning with **end-of-week routines**.
     - `Weekend Preference`: **Sunday outperforms** weekdays like Monday, Wednesday, and Thursday, highlighting a **strong customer preference for weekend visits**.
-    - `Peak Hours`: Occur between **8 AM and 11 AM**, driven by **commuter traffic and early coffee seekers**.
-    - `Sales Decline`: Sales decline sharply after 11 AM but remain steady through 8 PM.
+    - `Peak Hours`: Between **8 AM and 11 AM**, driven by **commuter traffic and early coffee seekers**.
+    - `Sales Decline`: **Sharp decline** in sales after 11 AM but **remain steady** through 8 PM.
     - `Evening Sales Drop`: Sales drop significantly after 8 PM, likely due to **reduced interest in hot beverages and customers exploring other dining options**.
 
   
-![hkhourlydailytrans](https://github.com/user-attachments/assets/6ab3e4d7-6b3b-42c1-9671-cfa579de1702)
-${\color{brown}\text{Fig.: Hell's Kitchen daily and hourly transactions}}$
+
 
 
 
 > [!Note]
-> ${\color{#051094}\text{Each column in "Transactions by hour" visual represents an entire hour duration. Eg. 7 means between 7AM and 8AM.}}$
+> ${\color{#051094}\text{Each column in "Transactions by hour" column chart visual represents an entire hour duration. Eg. 7 means between 7AM and 8AM.}}$
 ${\color{#051094}\text{Total number of transactions that occurred between 7AM and 8AM from January 2023 to June 2023 was 3455 in Hell's Kitchen.}}$
 
 
 
 - **${\color{brown}\text{Product Performance Insights:}}$**
- 
+![hkproductperformance](https://github.com/user-attachments/assets/438e8ffd-f70c-4d2c-90ff-ed99ec2a04d4)
+${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
+
     - `High-Caffeine Preference`: Customers tend to prefer **high-caffeine-content espresso-based beverages** like Barista Espresso.
     - `Moderate-Caffeine Preference`: There is a significant preference for **moderate-caffeine beverages** like Brewed Chai Tea.
-    - `Bakery Pairing`: The popularity of bakery items, especially scones, shows that customers like to pair their beverages with baked goods.
+    - `Bakery Pairing`: The popularity of bakery items, **especially scones**, shows that customers like to pair their beverages with baked goods.
     - `Non-Caffeinated Options`: **Hot chocolate’s** popularity indicates that customers also prefer **non-caffeinated options**.
     - `Syrup Flavours`: More customers tend to **prefer regular syrup flavours** over sugar-free ones. 
-    - `Take-Home Products and packaged items`: Customers show **less interest in take-home products and packaged items** like coffee beans, loose tea, packaged chocolate, and branded items. **Strong Preference for fresh products**.
+    - `Take-Home Products and packaged items`: **Strong Preference for fresh products** as customers are **less interested** in take-home products and packaged items [like ***coffee beans, loose tea, packaged chocolate, and branded items***].
 
-![hkproductperformance](https://github.com/user-attachments/assets/438e8ffd-f70c-4d2c-90ff-ed99ec2a04d4)
-
-${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
 
 
 ---
@@ -146,7 +147,8 @@ ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
 
 - **${\color{brown}\text{Top Transaction Day:}}$** Thursday (7,427 transactions)
 - **${\color{brown}\text{Top Transaction Hours:}}$** 7–11 AM
-- **${\color{brown}\text{Top Product:}}$** Brewed Chai Tea (6,293 transactions)
+- **${\color{brown}\text{High Revenue Generating Product:}}$** Barista Espresso ($27,427.90 revenue)
+- **${\color{brown}\text{Popular Product:}}$** Brewed Chai Tea (6,293 transactions)
 
   
 - **${\color{brown}\text{Daily and Hourly Insights:}}$**
@@ -154,7 +156,7 @@ ${\color{brown}\text{Fig.: Hell's Kitchen product performance and revenue}}$
  ![ashourlydailytrans](https://github.com/user-attachments/assets/83d9525d-59e4-444f-a6f2-c2cf1ea74d73)
 ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
 
-  - `Midweek Spike`: High Thursday transactions reflect a midweek spike in caffeine demand. **Increasing Mid-week caffeine** demand probably driven by **residents taking breaks from their daily routine and remote working professionals combating work fatigue**.
+  - `Midweek Spike`: High Thursday transactions reflect a midweek spike in caffeine demand. **Increasing Mid-week caffeine** demand probably driven by **residents taking breaks** from their daily routine and **remote working professionals** combating **work fatigue**.
   - `Lower Saturday and Tuesday Visits`: **Less caffeine demand** on Tuesdays and Saturdays indicating customers are exploring other options like **Taco Tuesdays** or **Saturday-special Brunch-Dinner** options.
   - `Weekend Trends`: Weekend caffeine demand is **lower as customers explore other food options and activities**, though **more customers visit on Sundays** compared to Saturdays.
   - `Morning Dominance`: Sales **dominate in the morning hours (7 AM–11 AM)**, indicating **high commuter activity**.
@@ -169,7 +171,7 @@ ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
 
   - `Moderate-Caffeine Preference`: Customers **favor moderate-caffeine beverages like Brewed Chai Tea** over high-caffeine options like Barista Espresso.
   - `Non-Caffeinated Options`: The popularity of **hot chocolate** shows that **customers also enjoy non-caffeinated options**.
-  - `Bakery Popularity`: People prefer pairing bakery with their beverages. **Scones are strongly preferred** among other bakery options like pastries and biscotti, **similar to the trend in Hell's Kitchen**.
+  - `Bakery Popularity`: **Scones are strongly preferred** among other bakery options like pastries and biscotti, **similar to the trend in Hell's Kitchen**.
   - `Syrup Flavors`: **Preference for regular syrup flavors** over sugar-free ones.
   - `Take-Home and Packaged Products`: Customers show **less interest** in take-home products such as coffee beans, loose tea, packaged chocolate, and branded items.
 
@@ -180,17 +182,18 @@ ${\color{brown}\text{Fig.: Astoria daily and hourly transactions}}$
 
 - **${\color{brown}\text{Top Transaction Day:}}$**  Monday (7,136 transactions)
 - **${\color{brown}\text{Top Transaction Hours:}}$** 7–11 AM
-- **${\color{brown}\text{Top Product:}}$** Barista Espresso ($31,051 revenue)
+- **${\color{brown}\text{High Revenue Generating Product:}}$** Barista Espresso ($31,051 revenue)
+- **${\color{brown}\text{Popular Product:}}$** Barista Espresso (5320 transactions)
 
 - **${\color{brown}\text{Daily and Hourly Insights:}}$**
 ![lmdailyhourlytrans](https://github.com/user-attachments/assets/27c0e5fe-bd98-4d4d-b593-1ef8dedbf383)
 ${\color{brown}\text{Fig.: Lower Manhattan daily and hourly transactions}}$
 
-  - `Monday Visits`: Most customers visit on Mondays, likely for a **early-week caffeine boost or a quick grab on their way to work**.
+  - `Monday Visits`: **Most customers** visit on Mondays, likely for a **early-week caffeine boost or a quick grab on their way to work**.
   - `Midweek Spikes`: Midweek spikes in transactions, similar to the trend in Astoria, are probably due to **client meetings or professionals fighting work fatigue**.
   - `Weekend Decrease`: Weekend transactions decrease due to **lower demand and less foot traffic**.
-  - `Morning Dominance`: Most customers **visit before 11 AM, with sales dropping heavily afterward**, likely due to **low caffeine demand and limited food options**.
-  - `Evening Decline`: Decreasing sales after 4 PM and **very few sales after 7 PM show minimal foot traffic and low interest in hot beverages during evening hours**.
+  - `Morning Dominance`: Most customers **visit before 11 AM**, with sales **dropping heavily afterward**, likely due to **low caffeine demand and limited food options**.
+  - `Evening Decline`: Decreasing sales after 4 PM and **very few sales after 7 PM** show **minimal foot traffic** and **low interest** in hot beverages during evening hours.
     
 - **${\color{brown}\text{Product Performance Insights:}}$**
 
@@ -201,7 +204,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
   - `Caffeine Preferences`: **Customers prefer high-to-moderate caffeine options** like Barista Espresso, Gourmet Brewed Coffee, and Brewed Chai Tea **probably to boost their productivity**. Black and herbal teas are also popular.
   - `Bakery Pairing`: **Scones** are a popular beverage pairing option(**similar to the trend in Astoria and Hell's Kitchen**).
   - `Hot Chocolate Appeal`: **Hot chocolate**, though **less popular** (compared to the trend in Astoria and Hell's Kitchen), generated ***$ 22.4k***, **appealing to tourists, children, and families**.
-  - `Syrup Flavors`: Regular syrup flavors are preferred over sugar-free ones.
+  - `Syrup Flavors`: Regular syrup flavors **are preferred** over sugar-free ones.
   - `Take-Home Products`: Customers **prefer fresh food items** over **packaged and take-home products** like coffee beans, loose tea, packaged chocolate, and branded items.
 
 ---
@@ -268,9 +271,9 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
   
 
 - **${\color{brown}\text{ Weekend Workshops and special offers:}}$**
-    - Organize **paid weekend workshops** ($25-$30 per head) to promote your coffee beans/tea leaves and **educate customers about their sourcing**, and the **methods involved in preparation** of various beverages.
-    - Offer **group discounts** to participants who register with at least three friends or more.
-    - Provide **loyalty rewards** for word-of-mouth referrals and repeated visits.
+    - Organize **paid weekend workshops** ($25-$30 per head) to **promote your coffee beans/tea leaves** and **educate customers about their sourcing**, and the **methods involved in preparation** of various beverages.
+    - Offer **group discounts** to participants who register with **at least three friends or more**.
+    - Provide **loyalty rewards** for word-of-mouth referrals and repeated participants.
     - Introduce **special bundle offers** including coffee beans and tea leaves at a discounted rate for all participants.
     - Promote your coffee beans and tea leaves through **online campaigns** and offer **winter season discounts**. Provide **doorstep delivery services**, allowing customers to enjoy their favorite beverages from the **comfort of their homes**.
 
@@ -281,24 +284,24 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 
 - **${\color{brown}\text{Expand Menu to mitigate post 11 AM sales drop:}}$**
-
-    1. Introduce **cold beverage options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
-    2. Introduce **lunch combo under $15**:
-
-       a) **Customizable sandwich** (veg/non-veg) 
-
-       b) Any **beverage** of your choice (hot/cold)
-
-    3.  **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
+    - Introduce **cold beverage options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
+    - Introduce **lunch combo under $15**:
+        - **Customizable sandwich** (veg/non-veg)
+        - Any **beverage** of your choice (hot/cold)
+    - **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
     
-- **${\color{brown}\text{Closing Time and operational efficiency:}}$**
-    - **Lower Manhattan**:
-        - **Close early** due to minimal foot traffic **after 7pm**.
-        - Focus on **quick service, lunch, and delivery options** for working professionals.
-        - Conduct **surveys** to understand customer needs before extending hours past 7pm.
-    - **Maintain the same business hours** in Astoria and Hell’s Kitchen.
-    - **Launch smartphone-based apps** for pre-ordering and customizing food, reducing morning wait times.
-    - Ensure there are **sufficient staff members** to handle the rush, particularly during busy morning hours.
+- **${\color{brown}\text{Optimize operational efficiency:}}$**
+    - Closing Time:
+        - Close early in Lower Manhattan due to minimal foot traffic after 7 pm.
+        - Conduct surveys to understand customer needs before extending hours past 7 pm.
+        - Maintain the same business hours in Astoria and Hell’s Kitchen.
+    - Streamlining Operations:
+        - Launch smartphone apps for pre-ordering and customizing food to reduce morning wait times.
+        - Ensure sufficient staff during busy morning hours.
+        - Assign specific staff for pre-orders during peak times and others for walk-in customers.
+        - Set up separate counters for pre-order and walk-in customers to reduce wait times.
+        - Allow customers to choose a pick-up time and send notifications when the order is ready to ensure freshness.
+
 
 - **${\color{brown}\text{Expand Merchandise:}}$**
     - Launch **affordable daily-use items** like tote bags, and notepads.
