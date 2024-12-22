@@ -252,7 +252,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 ## **Recommendations**
 
-- #### **Valentine's Week Specials:**
+- #### **Valentine's Week Specials**
     Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
     - `Limited Edition Branded Items`:
         - **Valentine's themed T-shirt:** $20 each.
@@ -276,7 +276,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
   
 
-- #### **Weekend Workshops:**
+- #### **Weekend Workshops**
     Start Weekend Workshops to boost the **Coffee Beans and Loose Tea sales**.
     - Organize **paid weekend workshops ($25-$30 per head)** to **spread awareness** about sourcing of **Coffee Beans/Loose Tea** and their preparation methods.
     - Offer **group discounts** for participants registering with three or more friends.
@@ -290,14 +290,15 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
 
-- #### **Expand Menu:** Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
+- #### **Expand Menu**
+      Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
     - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
     - `Lunch Combo:` Introduce **lunch combo under $15**:
         - **Customizable sandwich** (veg/non-veg)
         - Any **beverage** of your choice (hot/cold)
     - `Food Delivery:` **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
     
-- #### **Optimize operational efficiency:**
+- #### **Optimize Operational Efficiency**
     - `Closing Time:`
         - **Close early in Lower Manhattan** due to **minimal foot traffic** after 7 pm.
         - **Conduct surveys** to **understand customer needs** before extending hours past 7 pm.
