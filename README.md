@@ -252,7 +252,8 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
 ## **Recommendations**
 
-- **${\color{brown}\text{Valentine's Week Specials:}}$** Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
+- #### **Valentine's Week Specials:**
+    Launch **limited-edition Valentine’s-themed branded items** and **special beverages** to address February Decline.
     - `Limited Edition Branded Items`:
         - **Valentine's themed T-shirt:** $20 each.
           ![newDALL·E 2024-12-11 19 23 59 - A relaxed-fit white T-shirt with a natural, slightly wrinkled texture, featuring the text I ❤️️ my coffee in bold black font with a red heart symbol (1)](https://github.com/user-attachments/assets/90bfa969-1c2f-4174-b86c-49caaf9b7c02)
@@ -275,7 +276,8 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
 
   
 
-- **${\color{brown}\text{ Weekend Workshops:}}$** Start Weekend Workshops to boost the **Coffee Beans and Loose Tea sales**.
+- #### **Weekend Workshops:**
+    Start Weekend Workshops to boost the **Coffee Beans and Loose Tea sales**.
     - Organize **paid weekend workshops ($25-$30 per head)** to **spread awareness** about sourcing of **Coffee Beans/Loose Tea** and their preparation methods.
     - Offer **group discounts** for participants registering with three or more friends.
     - Provide **loyalty rewards** for referrals and returning participants.
@@ -288,14 +290,14 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
     Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-filter-at-cafe-kitchen-7176003/
 
 
-- **${\color{brown}\text{Expand Menu:}}$** Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
+- #### **Expand Menu:** Add **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
     - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and iced mocha.
     - `Lunch Combo:` Introduce **lunch combo under $15**:
         - **Customizable sandwich** (veg/non-veg)
         - Any **beverage** of your choice (hot/cold)
     - `Food Delivery:` **Partner with Uber Eats or DoorDash** to enhance accessibility especially in Lower Manhattan.
     
-- **${\color{brown}\text{Optimize operational efficiency:}}$**
+- #### **Optimize operational efficiency:**
     - `Closing Time:`
         - **Close early in Lower Manhattan** due to **minimal foot traffic** after 7 pm.
         - **Conduct surveys** to **understand customer needs** before extending hours past 7 pm.
@@ -308,7 +310,7 @@ ${\color{brown}\text{Fig.: Lower Manhattan product performance and revenue}}$
         - Allow customers to choose a **pick-up time** and **send notifications** when the **order is ready to ensure freshness**.
 
 
-- **${\color{brown}\text{Expand Merchandise:}}$**
+- #### **Expand Merchandise:**
     - Launch **affordable daily-use items** like tote bags, and notepads.
       ![9568a9f02c1c8207cbff66c7d6e265e9](https://github.com/user-attachments/assets/a962f652-9d07-48f4-8ea3-80b610770103)
       
