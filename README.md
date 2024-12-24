@@ -286,7 +286,7 @@ Photo by Antoni Shkraba: https://www.pexels.com/photo/people-making-coffee-in-fi
 
 
 #### **Expand Menu**
-Add new **quick grab and go** food/beverage options to your menu to mitigate the sales drop post 11 AM.
+Add new **quick grab and go** food/beverage options to your menu to **mitigate the sales drop post 11 AM**.
 
 - `Cold Beverages:` Introduce **cold beverages options under $5-$6**, like iced chai lattes, frozen chai, iced lattes, iced coffee, frozen hot chocolate, and smoothies.
 
